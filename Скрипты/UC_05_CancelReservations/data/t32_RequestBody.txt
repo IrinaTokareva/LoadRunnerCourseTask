@@ -1,0 +1,4 @@
+"flightID=12970-784-JB&flightID=1530-1562-JB&flightID=14827-2334-JB&4=on&flightID=12970-3092-JB"
+"&flightID=7419-3872-JB&flightID=2229-4630-JB&flightID=5567-5409-JB&removeFlights.x=63&removeFl"
+"ights.y=9&.cgifields=6&.cgifields=4&.cgifields=1&.cgifields=3&.cgifields=7&.cgifields=2&.cgifi"
+"elds=5"

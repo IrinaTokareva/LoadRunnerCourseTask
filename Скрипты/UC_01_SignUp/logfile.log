@@ -1,0 +1,1 @@
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: Action.c:75: warning: declaration of `lr_guid_no_dashes_gen' does not match previous declaration at Action.c:49

@@ -1,0 +1,8 @@
+[parameter:randomNum]
+Format="%lu"
+GenerateNewVal="EachIteration"
+MaxValue="100000"
+MinValue="1"
+OriginalValue=""
+ParamName="randomNum"
+Type="Random"

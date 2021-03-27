@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_04_BuyTickets
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_04_buytickets\\logfile.log
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_04_buytickets\\combined_UC_04_BuyTickets.c
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_04_buytickets\\pre_cci.c

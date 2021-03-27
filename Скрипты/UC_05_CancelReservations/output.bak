@@ -1,0 +1,207 @@
+Virtual User Script started at: 27.03.2021 17:21:51
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2020.0.0 for Windows 10; build 793 (ноя 27 2019 19:51:20)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\USER\Documents\VuGen\Scripts\UC_05_CancelReservations\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(10): Notify: Transaction "UC_04_BuyTickets" started.
+Action.c(12): Notify: Transaction "open_main_page" started.
+Action.c(14): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(14): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(17): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(17): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(20): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(20): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(20): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(20): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(20): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(20): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(20): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(20): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(20): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+Action.c(20): web_url("WebTours") was successful, 10075 body bytes, 2373 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(28): Notify: Transaction "open_main_page" ended with a "Pass" status (Duration: 0,3261 Wasted Time: 0,1413).
+Action.c(30): Notify: Transaction "login" started.
+Action.c(32): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(32): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(34): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(34): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(37): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(37): Notify: Parameter Substitution: parameter "username" =  "username1"
+Action.c(37): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_submit_form("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(40): Notify: Parameter Substitution: parameter "username" =  "username1"
+Action.c(40): Notify: Next row for parameter password = 1 [table  = password].
+Action.c(40): Notify: Parameter Substitution: parameter "password" =  "pass1"
+Action.c(40): Submitting form to "http://localhost:1080/cgi-bin/login.pl", Target Frame="body"  	[MsgId: MMSG-27978]
+Action.c(40): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(40): Detected non-resource "http://localhost:1080/cgi-bin/login.pl?intro=true" in "http://localhost:1080/cgi-bin/login.pl"  	[MsgId: MMSG-26574]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/flights.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/in_home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Found resource "http://localhost:1080/WebTours/images/signoff.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=home"  	[MsgId: MMSG-26659]
+Action.c(40): Registered web_reg_find successful for "Text=Welcome, <b>username1</b>, to the Web Tours reservation pages." (count=1)  	[MsgId: MMSG-26364]
+Action.c(40): web_submit_form("login.pl") was successful, 5784 body bytes, 2070 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(47): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,2162 Wasted Time: 0,0095).
+Action.c(49): Notify: Transaction "open_itinerary" started.
+Action.c(51): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(51): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(58): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(58): Notify: Next row for parameter firstName = 1 [table  = firstName].
+Action.c(58): Notify: Parameter Substitution: parameter "firstName" =  "Name1"
+Action.c(58): Notify: Next row for parameter lastName = 1 [table  = lastName].
+Action.c(58): Notify: Parameter Substitution: parameter "lastName" =  "Surname1"
+Action.c(58): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(61): web_image("Itinerary Button") started  	[MsgId: MMSG-26355]
+Action.c(61): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", Target Frame="body"  	[MsgId: MMSG-27993]
+Action.c(61): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+Action.c(61): Detected non-resource "http://localhost:1080/cgi-bin/itinerary.pl" in "http://localhost:1080/cgi-bin/welcome.pl?page=itinerary"  	[MsgId: MMSG-26574]
+Action.c(61): Resource "http://localhost:1080/WebTours/images/flights.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(61): Found resource "http://localhost:1080/WebTours/images/in_itinerary.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Action.c(61): Found resource "http://localhost:1080/WebTours/images/home.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?page=menu&in=itinerary"  	[MsgId: MMSG-26659]
+Action.c(61): Resource "http://localhost:1080/WebTours/images/signoff.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(61): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(61): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(61): Notify: Saving Parameter "flightIds_1 = 164604086-844-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_2 = 164603822-15463-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_3 = 164627090-23180-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_4 = 164615236-30887-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_5 = 164611199-38577-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_6 = 164601962-46456-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_7 = 16461339-5400-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_8 = 1646103780-62016-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_9 = 164610022-69368-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_10 = 164607058-77057-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_11 = 164619750-84697-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_12 = 164607493-92409-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_13 = 164597156-10066-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_14 = 1646238210-108083-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_15 = 164626712-11612-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_16 = 164593091-123182-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_17 = 1646230784-131041-NS".
+Action.c(61): Notify: Saving Parameter "flightIds_count = 17".
+Action.c(61): Registered web_reg_find successful for "Text=Name1 Surname1
+ 's Flight Transaction Summary" (count=1)  	[MsgId: MMSG-26364]
+Action.c(61): web_image("Itinerary Button") was successful, 27096 body bytes, 1914 header bytes, 75 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(66): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(68): Notify: Parameter Substitution: parameter "flightIds_1" =  "164604086-844-NS"
+Action.c(66): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(71): Notify: Transaction "open_itinerary" ended with a "Pass" status (Duration: 0,2482 Wasted Time: 0,0164).
+Action.c(73): Notify: Transaction "cancel_reservations" started.
+Action.c(75): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(75): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(80): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+Action.c(80): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+Action.c(87): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(88): web_submit_form("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(88): Submitting form to "http://localhost:1080/cgi-bin/itinerary.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(88): Resource "http://localhost:1080/WebTours/images/cancelreservation.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(88): Resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(88): Notify: Saving Parameter "newFlightIds_1 = 164603822-7771-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_2 = 164627090-15487-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_3 = 164615236-23195-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_4 = 164611199-30885-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_5 = 164601962-38764-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_6 = 16461339-4630-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_7 = 1646103780-54324-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_8 = 164610022-61676-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_9 = 164607058-69365-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_10 = 164619750-77005-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_11 = 164607493-84717-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_12 = 164597156-9297-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_13 = 1646238210-100391-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_14 = 164626712-10843-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_15 = 164593091-115490-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_16 = 1646230784-123349-NS".
+Action.c(88): Notify: Saving Parameter "newFlightIds_count = 16".
+Action.c(88): web_submit_form("itinerary.pl") was successful, 20828 body bytes, 255 header bytes, 51 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_1" =  "164603822-7771-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_2" =  "164627090-15487-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_3" =  "164615236-23195-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_4" =  "164611199-30885-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_5" =  "164601962-38764-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_6" =  "16461339-4630-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_7" =  "1646103780-54324-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_8" =  "164610022-61676-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_9" =  "164607058-69365-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_10" =  "164619750-77005-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_11" =  "164607493-84717-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_12" =  "164597156-9297-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_13" =  "1646238210-100391-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_14" =  "164626712-10843-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_15" =  "164593091-115490-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(120): Notify: Parameter Substitution: parameter "newFlightIds_16" =  "1646230784-123349-NS"
+Action.c(119): Notify: Parameter Substitution: parameter "reservationsNum" =  "1"
+Action.c(117): Notify: Parameter Substitution: parameter "newFlightIds_count" =  "16"
+Action.c(128): Notify: Transaction "cancel_reservations" ended with a "Pass" status (Duration: 0,4065 Wasted Time: 0,0130).
+Action.c(133): Notify: Transaction "logout" started.
+Action.c(135): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(135): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(138): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(138): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+Action.c(138): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(138): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+Action.c(138): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(138): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(138): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+Action.c(138): web_image("SignOff Button") was successful, 2174 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(143): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,1724 Wasted Time: 0,0085).
+Action.c(145): Notify: Transaction "UC_04_BuyTickets" ended with a "Pass" status (Duration: 1,3842 Wasted Time: 0,1887).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

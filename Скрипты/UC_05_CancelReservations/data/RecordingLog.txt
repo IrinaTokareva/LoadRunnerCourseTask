@@ -1,0 +1,104 @@
+[API Trapper      (13d0: 814)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (3e4c:4080)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (45e0:2e24)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (45e0: 650)] ------------------------------------------------------------------------------------------
+[Network Analyzer (45e0: 650)] Load Network Traffic Analyzers:
+[Network Analyzer (45e0: 650)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (45e0: 650)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (45e0: 650)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (45e0: 650)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (45e0: 650)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (45e0: 650)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (45e0: 650)] ------------------------------------------------------------------------------------------
+[Network Analyzer (45e0:1480)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (45e0: 650)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Request Connection: Remote Server @ 64.233.165.94:443   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (45e0:1480)] "GET /WebTours/"   
+[Network Analyzer (45e0:1480)]   (Sid:  1) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (45e0: 650)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (45e0: 650)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Request Connection: Remote Server @ 64.233.162.84:443   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (45e0:1480)] "GET /WebTours/header.html"   
+[Network Analyzer (45e0:1480)]   (Sid:  1) Client -> Server @ : 615 bytes (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (45e0:3520)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (45e0:1fd0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 567 bytes (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /WebTours/home.html"   
+[Network Analyzer (45e0:1480)]   (Sid:  1) Client -> Server @ : 664 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /favicon.ico"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (45e0: 650)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Request Connection: Remote Server @ 173.194.221.94:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (45e0:1fd0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (45e0:3520)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (45e0:1480)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=89"   
+[Network Analyzer (45e0:1480)]   (Sid:  2) Client -> Server @ : 448 bytes (SSL)(Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  4) Client -> Server @ : 1904 bytes (SSL)(Service=HTTP)
+[Web Request      (45e0:1480)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (45e0:1480)]   (Sid:  4) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Network Analyzer (45e0:3dd8)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (45e0:1480)]   (Sid:  2) Server -> Client : 1338 bytes (SSL) (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  2) Server -> Client : 230 bytes (SSL) (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  4) Server -> Client : 1552 bytes (SSL) (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  4) Server -> Client : 237 bytes (SSL) (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  4) Server -> Client : 39 bytes (SSL) (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  4) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (45e0:3dd8)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[API Trapper      (3990:40a0)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Web Request      (45e0:1480)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 799 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 846 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 672 bytes (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (45e0:1480)]   (Sid:  1) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (45e0:1480)]   (Sid:  1) Client -> Server @ : 689 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 813 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (45e0:1480)]   (Sid:  1) Client -> Server @ : 677 bytes (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 694 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 5292 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 1080 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 4184 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      (45e0:1480)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 689 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (45e0:1480)]   (Sid:  3) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (45e0: 650)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (45e0: 650)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (45e0:1480)] "GET /WebTours/home.html"   
+[Network Analyzer (45e0:1480)]   (Sid:  6) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (45e0:1480)]   (Sid:  6) Server -> Client : 195 bytes  (Service=HTTP)

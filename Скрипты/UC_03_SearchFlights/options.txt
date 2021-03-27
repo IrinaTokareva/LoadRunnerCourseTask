@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_03_SearchFlights
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_03_searchflights\\logfile.log
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_03_searchflights\\combined_UC_03_SearchFlights.c
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_03_searchflights\\pre_cci.c

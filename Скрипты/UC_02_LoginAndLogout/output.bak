@@ -1,0 +1,44 @@
+Virtual User Script started at: 27.03.2021 19:38:51
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 12.55.0 for Windows 10; build 911 (июл 24 2017 19:46:00)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36  	[MsgId: MMSG-26988]
+Run-Time Settings file: "C:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_02_LoginAndLogout\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "UC_02_LoginAndLogout" started.
+Action.c(6): Notify: Transaction "open_main_page" started.
+Action.c(8): web_add_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(8): web_add_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(11): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(11): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(14): web_url("WebTours") started  	[MsgId: MMSG-26355]
+Action.c(14): Detected non-resource "http://localhost:1080/WebTours/header.html" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(14): Detected non-resource "http://localhost:1080/cgi-bin/welcome.pl?signOff=true" in "http://localhost:1080/WebTours/"  	[MsgId: MMSG-26574]
+Action.c(14): Found resource "http://localhost:1080/WebTours/images/hp_logo.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(14): Found resource "http://localhost:1080/WebTours/images/webtours.png" in HTML "http://localhost:1080/WebTours/header.html"  	[MsgId: MMSG-26659]
+Action.c(14): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(14): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=true"  	[MsgId: MMSG-26574]
+Action.c(14): Found resource "http://localhost:1080/WebTours/images/mer_login.gif" in HTML "http://localhost:1080/cgi-bin/nav.pl?in=home"  	[MsgId: MMSG-26659]
+Action.c(14): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+Action.c(14): web_url("WebTours") was successful, 10076 body bytes, 2373 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(22): Notify: Transaction "open_main_page" ended with a "Pass" status (Duration: 0,3899 Wasted Time: 0,1557).
+Action.c(24): Notify: Transaction "login" started.
+Action.c(26): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(26): Error -27755: Unknown SSL version AUTO: use one of '2', '3', '2&3', 'TLS', 'TLS1.1', 'TLS1.2'  	[MsgId: MERR-27755]
+Action.c(26): web_set_sockets_option highest severity level was "ERROR"  	[MsgId: MMSG-26391]
+Action.c(26): Notify: Transaction "login" ended with a "Fail" status (Duration: 0,0376).
+Action.c(26): Notify: Transaction "login" has 1 error message(s).
+Action.c(26): Notify: The 1st error message associated with transaction "login" is "Error -27755: Unknown SSL version AUTO: use one of '2', '3', '2&3', 'TLS', 'TLS1.1', 'TLS1.2'"
+Action.c(26): Notify: Transaction "UC_02_LoginAndLogout" ended with a "Fail" status (Duration: 0,4309 Wasted Time: 0,1557).
+Action.c(26): Notify: Transaction "UC_02_LoginAndLogout" has 1 error message(s).
+Action.c(26): Notify: The 1st error message associated with transaction "UC_02_LoginAndLogout" is "Error -27755: Unknown SSL version AUTO: use one of '2', '3', '2&3', 'TLS', 'TLS1.1', 'TLS1.2'"
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Denver&departDate=03%2F24%2F2021&arrive=San+Francisco&returnDate=03%2"
+"F25%2F2021&numPassengers=1&seatPref=None&seatType=Coach&findFlights.x=41&findFlights.y=9&.cgif"
+"ields=roundtrip&.cgifields=seatType&.cgifields=seatPref"

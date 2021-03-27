@@ -1,0 +1,99 @@
+[API Trapper      (3edc:1eb4)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (4c30:436c)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[API Trapper      (23c0:4790)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Network Analyzer (23c0: 5a8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (23c0: 5a8)] Load Network Traffic Analyzers:
+[Network Analyzer (23c0: 5a8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (23c0: 5a8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (23c0: 5a8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (23c0: 5a8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (23c0: 5a8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (23c0: 5a8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (23c0: 5a8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (23c0: ec8)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (23c0: 5a8)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (23c0: 5a8)] Request Connection: Remote Server @ 108.177.14.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (23c0: 5a8)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (23c0: 5a8)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (23c0: 5a8)] Address lookup for ITokareva = 10.0.0.10
+[Web Request      (23c0: ec8)] "GET /WebTours/"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 563 bytes (Service=HTTP)
+[Network Analyzer (23c0: 5a8)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 195 bytes  (Service=HTTP)
+[Network Analyzer (23c0:38f8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (23c0: ec8)] "GET /WebTours/header.html"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 615 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 193 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 526 bytes (Service=HTTP)
+[Network Analyzer (23c0: 5a8)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (23c0: 5a8)] Request Connection: Remote Server @ 64.233.162.84:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 567 bytes (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /WebTours/home.html"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 664 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (23c0:1fcc)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 1752 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /favicon.ico"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 433 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (23c0:1fcc)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (23c0:38f8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (23c0: ec8)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=89"   
+[Network Analyzer (23c0: ec8)]   (Sid:  1) Client -> Server @ : 448 bytes (SSL)(Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  1) Server -> Client : 327 bytes (SSL) (Service=HTTP)
+[Web Request      (23c0: ec8)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 801 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 846 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 672 bytes (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[API Trapper      (4314:31ac)] Recording in 64-bit mode: C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[Web Request      (23c0: ec8)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 686 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 689 bytes (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 690 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Client -> Server @ : 588 bytes (Service=HTTP)
+[Network Analyzer (23c0: 5a8)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (23c0: 5a8)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Server -> Client : 1023 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (23c0: ec8)]   (Sid:  5) Client -> Server @ : 582 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  5) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 4520 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 1049 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 2702 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (23c0: ec8)]   (Sid:  5) Connection Terminated (by Server)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 687 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 1020 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Client -> Server @ : 564 bytes (Service=HTTP)
+[Network Analyzer (23c0: 5a8)] Address lookup for ITokareva = 10.0.0.10
+[Network Analyzer (23c0: 5a8)] Request Connection: Remote Server @ 10.0.0.10:1080   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 1748 bytes  (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  3) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (23c0: ec8)] "GET /WebTours/home.html"   
+[Network Analyzer (23c0: ec8)]   (Sid:  6) Client -> Server @ : 661 bytes (Service=HTTP)
+[Network Analyzer (23c0: ec8)]   (Sid:  6) Server -> Client : 195 bytes  (Service=HTTP)

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_02_LoginAndLogout
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_02_loginandlogout\\logfile.log
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_02_loginandlogout\\combined_UC_02_LoginAndLogout.c
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_02_loginandlogout\\pre_cci.c

@@ -1,0 +1,60 @@
+Action()
+{
+	
+	lr_start_transaction("UC_02_LoginAndLogout");
+	
+	lr_start_transaction("open_main_page");
+
+	web_add_auto_header("Upgrade-Insecure-Requests", 
+		"1");
+	
+	web_reg_find("Text=Welcome to the Web Tours site.",
+		LAST);
+
+	web_url("WebTours", 
+		"URL=http://localhost:1080/WebTours/", 
+		"Resource=0", 
+		"Referer=", 
+		"Snapshot=t1.inf", 
+		"Mode=HTML", 
+		LAST);
+	
+	lr_end_transaction("open_main_page", LR_AUTO);
+
+	lr_start_transaction("login");
+
+	web_set_sockets_option("SSL_VERSION", "2");
+
+	web_add_header("Origin", 
+		"http://localhost:1080");
+
+	lr_think_time(10);
+	
+	web_reg_find("Text=Welcome, <b>{username}</b>, to the Web Tours reservation pages.",
+		LAST);
+
+	web_submit_form("login.pl", 
+		"Snapshot=t4.inf", 
+		ITEMDATA, 
+		"Name=username", "Value={username}", ENDITEM, 
+		"Name=password", "Value={password}", ENDITEM, 
+		LAST);
+	
+	lr_end_transaction("login", LR_AUTO);
+
+	lr_start_transaction("logout");
+	
+	web_reg_find("Text=Welcome to the Web Tours site.",
+		LAST);
+
+	web_image("SignOff Button", 
+		"Alt=SignOff Button", 
+		"Snapshot=t5.inf", 
+		LAST);
+	
+	lr_end_transaction("logout", LR_AUTO);
+
+	lr_end_transaction("UC_02_LoginAndLogout", LR_AUTO);
+
+	return 0;
+}

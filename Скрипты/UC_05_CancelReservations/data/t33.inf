@@ -1,0 +1,15 @@
+[t33]
+FileName1=t33.htm
+URL1=http://10.0.0.10:1080/cgi-bin/welcome.pl?signOff=1
+Total=2
+RequestHeaderFile=t33_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t33_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_33.xml
+FileName2=t33f0.htm
+URL2=http://10.0.0.10:1080/cgi-bin/nav.pl?in=home
+FrameIndex2=0.0
+UseFrameIndex=1
+[ProtocolInfo]
+ProtocolId=QTWeb

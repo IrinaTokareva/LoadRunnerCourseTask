@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_01_SignUp
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\logfile.log
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\combined_UC_01_SignUp.c
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c

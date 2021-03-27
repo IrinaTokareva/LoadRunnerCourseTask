@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_05_CancelReservations
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_05_cancelreservations\\logfile.log
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_05_cancelreservations\\combined_UC_05_CancelReservations.c
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_05_cancelreservations\\pre_cci.c
