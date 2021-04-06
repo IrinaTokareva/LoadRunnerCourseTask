@@ -1,0 +1,521 @@
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 1455 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  1pm : Flight 961 leaves Zurich  for San Francisco.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <!-- Flight #1 -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <label><input type="checkbox" name="3" value="on" /></label></font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="hidden" name="flightID" value="37035457-2324-NS"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <b>&nbsp;&nbsp;4 Coach class tickets for :</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center><table border="0" width="85%"><tr><td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i>Name6 Surname6      <li><i>Passenger 2      <li><i>Passenger 3      <li><i>Pa
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ssenger 4\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i></i>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td></tr></table></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent 
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458615ms: 6-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=186)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     1000\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458615ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=186)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     c9b\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458615ms: 7-byte chunked response overhead for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=186)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458615ms: 7323-byte chunked response body for "http://localhost:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=186)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 212 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  11pm : Flight 573 leaves Portland  for Seattle.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <!-- Flight #1 -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <label><input type="checkbox" name="4" value="on" /></label></font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="hidden" name="flightID" value="370349355-31000-NS"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center><table border="0" width="85%"><tr><td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i>Name6 Surname6      <li><i>Passenger 2      <li><i>Passenger 3      <li><i>Pa
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ssenger 4      <li><i>Passenger 5\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i></i>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td></tr></table></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 3005 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  5pm : Flight 432 leaves Paris  for Los Angeles.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <!-- Flight #1 -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <label><input type="checkbox" name="5" value="on" /></label></font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="hidden" name="flightID" value="370356021-38643-NS"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center><table border="0" width="85%"><tr><td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i>Name6 Surname6      <li><i>Passenger 2      <li><i>Passenger 3      <li><i>Pa
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ssenger 4\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i></i>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td></tr></table></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 2364 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  5pm : Flight 612 leaves San Francisco  for Frankfurt.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <!-- Flight #1 -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <label><input type="checkbox" name="6" value="on" /></label></font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="hidden" name="flightID" value="370336796-46345-NS"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <b>&nbsp;&nbsp;5 Business class tickets for :</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center><table border="0" width="85%"><tr><td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i>Name6 Surname6      <li><i>Passenger 2      <li><i>Passenger 3      <li><i>Pa
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ssenger 4      <li><i>Passenger 5\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i></i>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td></tr></table></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 2495 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  11pm : Flight 093 leaves Denver  for Zurich.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <!-- Flight #1 -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <label><input type="checkbox" name="7" value="on" /></label></font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="hidden" name="flightID" value="370342338-5424-NS"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <b>&nbsp;&nbsp;4 Business class tickets for :</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center><table border="0" width="85%"><tr><td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i>Name6 Surname6      <li><i>Passenger 2      <li><i>Passenger 3      <li><i>Pa
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ssenger 4\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i></i>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td></tr></table></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 516 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  11pm : Flight 243 leaves London  for Paris.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <!-- Flight #1 -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" rowspan="2" align="left" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <label><input type="checkbox" name="8" value="on" /></label></font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="hidden" name="flightID" value="370346061-61745-NS"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign="top">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <b>&nbsp;&nbsp;4 First class tickets for :</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center><table border="0" width="85%"><tr><td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i>Name6 Surname6      <li><i>Passenger 2      <li><i>Passenger 3      <li><i>Pa
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ssenger 4\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <li><i></i>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td></tr></table></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Name6 Surname6\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Street6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Address6<br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):               Total Charge: $ 2692 <BR/> (CC: x-9999)\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </td> </tr> </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):           </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="3">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <b>Flight Details:</b><BR/>  <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       04/08/2021\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):      :  11pm : Flight 343 leaves Los Angeles  for Paris.<br>  </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR bgcolor="#EFF2F7">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <TD COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       <hr/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):       </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):        <TD align="center" COLSPAN="4">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):        <b>A total of 8 scheduled flights.</font></b>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):        </TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TABLE>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TD align="left" width="50%" >\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     er="0" /></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <TD align="right" width="50%" >\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     f" border="0" /></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </TABLE>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     <div><input type="hidden" name=".cgifields" value="6"  /><input type="hidden" name=".cgifi
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     elds" value="3"  /><input type="hidden" name=".cgifields" value="7"  /><input type="hidden
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     " name=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value="8"  /><inpu
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     t type="hidden" name=".cgifields" value="1"  /><input type="hidden" name=".cgifields" valu
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     e="4"  /><input type="hidden" name=".cgifields" value="5"  /></div></form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): Found resource "http://localhost:1080/WebTours/images/cancelreservation.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): Found resource "http://localhost:1080/WebTours/images/cancelallreservations.gif" in HTML "http://localhost:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458626ms: 298-byte response headers for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=188)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Date: Mon, 05 Apr 2021 20:58:11 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ETag: "1400000004b047-33f-4b654c0620500"\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Accept-Ranges: bytes\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Content-Length: 831\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Keep-Alive: timeout=5, max=96\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Content-Type: image/gif\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458626ms: 831-byte response body for "http://localhost:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=188)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458644ms: 297-byte response headers for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=189)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Date: Mon, 05 Apr 2021 20:58:11 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     ETag: "700000004b046-2e6-4b654c0620500"\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Accept-Ranges: bytes\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Content-Length: 742\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     Content-Type: image/gif\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): t=458644ms: 742-byte response body for "http://localhost:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=189)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): Registered web_reg_find successful for "Text=Name6 Surname6
+ 's Flight Transaction Summary" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(179): web_image("Itinerary Button") was successful, 15674 body bytes, 1619 header bytes, 51 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(192): Notify: Transaction "open_itinerary" ended with a "Pass" status (Duration: 0,2549 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(196): Notify: Transaction "logout" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(198): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(198): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458708ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=190)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Date: Mon, 05 Apr 2021 20:58:11 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Set-Cookie: MSO=SID&1617656291; path=/\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Set-Cookie: MTUserInfo=; path=/; expires=Sun, 04-Apr-2021 20:58:11 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Keep-Alive: timeout=5, max=95\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458709ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=190)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     2ae\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458709ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=190)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458709ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=190)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <!-- \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):      A Session ID has been created and loaded into a cookie called MSO.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):      Also, the server options have been loaded into the cookie called\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):      MSO as well.  The server options can be set via the Admin page.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):      --->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):        <!-- Frame Set -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):        <frameset cols="160,*" border="1" frameborder="1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):           <!-- Navigation Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):           <!-- Home Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):        </frameset>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458710ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=192)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \t<title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     N: none}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     CORATION: underline}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <body bgcolor="#e0e7f1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <table border="0">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <TR><TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <TR><TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <H1><b>Web Tours</b></H1>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Welcome to the Web Tours site.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     To make reservations,please enter your account information to the left.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     tration</b></A> link.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <br/><br/><br/><br/><br/><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <br/><small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </blockquote></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458714ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=190)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458783ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=191)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Date: Mon, 05 Apr 2021 20:58:11 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Expires: Sun, 04 Apr 2021 20:58:11 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Keep-Alive: timeout=5, max=98\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458784ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=191)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     5d2\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458784ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=191)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458784ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=191)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <title>Web Tours Navigation Bar</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     blockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     small {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <input type="hidden" name="userSession" value="131037.366626164zHtAcDtpftfiDDDDtAttVptAHcH
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     f"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <table border="0"><tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td><small>&nbsp;Username</small></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td><small>&nbsp;Password</small></td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): t=458786ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=191)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(201): web_image("SignOff Button") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(206): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,1424 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(20): Notify: Transaction "UC_03_SearchFlights" ended with a "Pass" status (Duration: 18,2233 Think Time: 17,0012 Wasted Time: 0,0026).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 3 (thread 14568), ended OK."	[MsgId: MMSG-10695]

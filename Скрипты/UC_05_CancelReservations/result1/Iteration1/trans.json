@@ -1,32 +1,32 @@
 [
     {
         "transactionName": "open_main_page",
-        "rawStartTime": 1616863295557,
-        "rawEndTime": 1616863296020
+        "rawStartTime": 1617723655332,
+        "rawEndTime": 1617723655673
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1616863296043,
-        "rawEndTime": 1616863296380
+        "rawStartTime": 1617723655675,
+        "rawEndTime": 1617723662929
     },
     {
         "transactionName": "open_itinerary",
-        "rawStartTime": 1616863296383,
-        "rawEndTime": 1616863296785
+        "rawStartTime": 1617723662932,
+        "rawEndTime": 1617723663198
     },
     {
         "transactionName": "cancel_reservations",
-        "rawStartTime": 1616863296789,
-        "rawEndTime": 1616863297326
+        "rawStartTime": 1617723663200,
+        "rawEndTime": 1617723668330
     },
     {
         "transactionName": "logout",
-        "rawStartTime": 1616863297330,
-        "rawEndTime": 1616863297516
+        "rawStartTime": 1617723668334,
+        "rawEndTime": 1617723668514
     },
     {
-        "transactionName": "UC_04_BuyTickets",
-        "rawStartTime": 1616863295542,
-        "rawEndTime": 1616863297531
+        "transactionName": "UC_05_CancelReservations",
+        "rawStartTime": 1617723655330,
+        "rawEndTime": 1617723668515
     }
 ]

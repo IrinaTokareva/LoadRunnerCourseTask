@@ -1,12 +1,12 @@
-[t30]
-PassCount=1
-Pass1=t2
 [t10]
 PassCount=1
 Pass1=t4
-[t27]
+[t1]
 PassCount=1
 Pass1=t1
 [t12]
 PassCount=1
 Pass1=t6
+[t4]
+PassCount=1
+Pass1=t2

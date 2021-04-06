@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_01_SignUp__*delimiter*__open_main_page__*delimiter*__open_sign_up_page__*delimiter*__sign_up"
+Order="UC_01_SignUp__*delimiter*__open_sign_up_page__*delimiter*__sign_up"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -60,6 +60,5 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
 UC_01_SignUp=
-open_main_page=
 open_sign_up_page=
 sign_up=

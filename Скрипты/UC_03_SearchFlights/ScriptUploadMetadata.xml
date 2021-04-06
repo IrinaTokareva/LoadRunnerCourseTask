@@ -16,6 +16,8 @@
     <FileEntry Name="combined_UC_03_SearchFlights.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="106908966440.idx" Filter="1" />
+    <FileEntry Name="10690896644_bAB.747.idx" Filter="1" />
+    <FileEntry Name="10690896644_oyI.395.idx" Filter="1" />
     <FileEntry Name="135089972440.idx" Filter="1" />
     <FileEntry Name="13508997244_ibm.777.idx" Filter="1" />
     <FileEntry Name="13508997244_sfq.647.idx" Filter="1" />
@@ -26,6 +28,16 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv5wf.185.log" Filter="1" />
+    <FileEntry Name="mdrv7Iw.281.log" Filter="1" />
+    <FileEntry Name="mdrvCYR.799.log" Filter="1" />
+    <FileEntry Name="mdrvEfG.735.log" Filter="1" />
+    <FileEntry Name="mdrvemo.893.log" Filter="1" />
+    <FileEntry Name="mdrvtoN.459.log" Filter="1" />
+    <FileEntry Name="mdrvtss.549.log" Filter="1" />
+    <FileEntry Name="mdrvvdg.987.log" Filter="1" />
+    <FileEntry Name="mdrvWw6.275.log" Filter="1" />
+    <FileEntry Name="mdrvXd0.245.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

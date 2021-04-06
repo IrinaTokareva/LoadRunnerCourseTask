@@ -1,1 +1,11 @@
-c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: Action.c:75: warning: declaration of `lr_guid_no_dashes_gen' does not match previous declaration at Action.c:49
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:62: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:69: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:69: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:76: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:76: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:114: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:114: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:170: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:170: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h:170: warning: unrecognized character escape sequence `\='
+c:\courses\loadrunner\loadrunnercoursetask\скрипты\uc_01_signup\\pre_cci.c: Action.c:67: warning: declaration of `lr_short_guid_no_dashes_gen' does not match previous declaration at Action.c:31

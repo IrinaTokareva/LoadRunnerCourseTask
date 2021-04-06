@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_02_LoginAndLogout__*delimiter*__open_main_page__*delimiter*__login__*delimiter*__logout"
+Order="UC_02_LoginAndLogout"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -60,6 +60,3 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
 UC_02_LoginAndLogout=
-open_main_page=
-login=
-logout=

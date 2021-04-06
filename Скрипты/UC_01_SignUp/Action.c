@@ -1,25 +1,11 @@
+char tmp[128];
+
 Action()
 {
 	
 	lr_start_transaction("UC_01_SignUp");
-	
-	lr_start_transaction("open_main_page");
 
-	web_add_auto_header("Upgrade-Insecure-Requests", 
-		"1");
-	
-	web_reg_find("Text=Welcome to the Web Tours site.",
-		LAST);
-
-	web_url("WebTours", 
-		"URL=http://localhost:1080/WebTours/", 
-		"Resource=0", 
-		"Referer=", 
-		"Snapshot=t1.inf", 
-		"Mode=HTML", 
-		LAST);
-	
-	lr_end_transaction("open_main_page", LR_AUTO);
+	open_main_page_transaction();
 
 	lr_start_transaction("open_sign_up_page");
 
@@ -28,13 +14,9 @@ Action()
 	web_reg_find("Text=First time registering? Please complete the form below.",
 	    LAST);
 
-	web_url("login.pl", 
-		"URL=http://localhost:1080/cgi-bin/login.pl?username=&password=&getInfo=true", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://localhost:1080/WebTours/home.html", 
+	web_link("sign up now", 
+		"Text=sign up now", 
 		"Snapshot=t4.inf", 
-		"Mode=HTML", 
 		LAST);
 	
 	lr_end_transaction("open_sign_up_page", LR_AUTO);
@@ -46,17 +28,23 @@ Action()
 
 	lr_think_time(11);
 	
-	lr_save_string((char*)lr_guid_no_dashes_gen(), "guid");
+	lr_save_string((char*)lr_short_guid_no_dashes_gen(), "guid");
 	
-	web_reg_find("Text=Thank you, <b>user{guid}</b>, for registering and welcome to the Web Tours family.",
+	sprintf(tmp, "user%s", lr_eval_string("{guid}"));
+	lr_save_string(tmp, "username");
+	
+	sprintf(tmp, "pass%s", lr_eval_string("{guid}"));
+	lr_save_string(tmp, "password");
+
+	web_reg_find("Text=Thank you, <b>{username}</b>, for registering and welcome to the Web Tours family.",
 	    LAST);
 
 	web_submit_form("login.pl_2", 
 		"Snapshot=t5.inf", 
 		ITEMDATA, 
-		"Name=username", "Value=user{guid}", ENDITEM, 
-		"Name=password", "Value=pass{guid}", ENDITEM, 
-		"Name=passwordConfirm", "Value=pass{guid}", ENDITEM, 
+		"Name=username", "Value={username}", ENDITEM, 
+		"Name=password", "Value={password}", ENDITEM, 
+		"Name=passwordConfirm", "Value={password}", ENDITEM, 
 		"Name=firstName", "Value=Name{guid}", ENDITEM, 
 		"Name=lastName", "Value=Surname{guid}", ENDITEM, 
 		"Name=address1", "Value=address1-{guid}", ENDITEM, 
@@ -66,13 +54,17 @@ Action()
 		LAST);
 	
 	lr_end_transaction("sign_up", LR_AUTO);
+	
+	open_main_page_transaction();
+	
+	login_transaction();
 
 	lr_end_transaction("UC_01_SignUp", LR_AUTO);
 
 	return 0;
 }
 
-char* lr_guid_no_dashes_gen(){
+char* lr_short_guid_no_dashes_gen(){
     typedef struct _GUID {
         unsigned long Data1;
         unsigned short Data2;
@@ -85,11 +77,9 @@ char* lr_guid_no_dashes_gen(){
     char bufx[50];
     lr_load_dll("ole32.dll");
     CoCreateGuid(&m_guid);
-
-    sprintf(buf, "%08lX%04X%04X%02X%02X%02X%02X%02X%02X%02X%02X",
-    m_guid.Data1, m_guid.Data2, m_guid.Data3,
-    m_guid.Data4[0], m_guid.Data4[1], m_guid.Data4[2], m_guid.Data4[3],
-    m_guid.Data4[4], m_guid.Data4[5], m_guid.Data4[6], m_guid.Data4[7]);
+    
+    sprintf(buf, "%05lX",
+    m_guid.Data1);
 
     return lr_eval_string(buf);
 }

@@ -7,7 +7,7 @@ Pass1=t8
 [t7]
 PassCount=1
 Pass1=t9
-[t10]
+[t8]
 PassCount=1
 Pass1=t10
 [t1]

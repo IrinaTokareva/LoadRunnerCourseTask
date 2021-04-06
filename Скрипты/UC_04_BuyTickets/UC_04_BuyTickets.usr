@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_04_BuyTickets__*delimiter*__open_main_page__*delimiter*__login__*delimiter*__open_flights_page__*delimiter*__search_flights__*delimiter*__choose_flight__*delimiter*__buy_ticket__*delimiter*__logout"
+Order="UC_04_BuyTickets__*delimiter*__buy_ticket"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -60,10 +60,4 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
 UC_04_BuyTickets=
-open_main_page=
-login=
-open_flights_page=
-search_flights=
-choose_flight=
 buy_ticket=
-logout=
