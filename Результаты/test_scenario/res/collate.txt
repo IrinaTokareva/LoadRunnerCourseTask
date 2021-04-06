@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\courses\LoadRunner\LoadRunnerCourseTask\—ценарии\TestScenario.lrs
+Completed=0
