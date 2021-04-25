@@ -2615,8 +2615,6 @@ void login_transaction() {
     web_add_header("Origin", 
         "http://localhost:1080");
 
-    lr_think_time(7);
-
     web_reg_find("Text=Welcome, <b>{username}</b>, to the Web Tours reservation pages.",
         "LAST");
 
@@ -2697,8 +2695,6 @@ void search_flights_transaction(int chooseFlight) {
              "SEARCH_FILTERS",
              "LAST");
     }
-
-    lr_think_time(10);
 	
     web_reg_find("Text=Flight departing from <B>{departureCity}</B> to <B>{arrivalCity}</B> on <B>{departureDate}</B>",
         "LAST");
@@ -2830,12 +2826,12 @@ Action()
 	
 	lr_end_transaction("open_sign_up_page", 2);
 	
+	lr_think_time(11);
+	
 	lr_start_transaction("sign_up");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(11);
 	
 	lr_save_string((char*)lr_short_guid_no_dashes_gen(), "guid");
 	
@@ -2865,6 +2861,8 @@ Action()
 	lr_end_transaction("sign_up", 2);
 	
 	open_main_page_transaction();
+	
+	lr_think_time(7);
 	
 	login_transaction();
 

@@ -1,0 +1,1814 @@
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): t=6401131ms: 274-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" (RelFrameId=1.2, Internal ID=1250)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     tton_next.gif" border="0" /></td></tr></table><div><input type="hidden" name=".cgifields" 
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     value="roundtrip"  /><input type="hidden" name=".cgifields" value="seatType"  /><input typ
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     e="hidden" name=".cgifields" value="seatPref"  /></div></form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     </blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Found resource "http://localhost:1080/WebTours/images/button_next.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl?page=welcome"  	[MsgId: MMSG-26659]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): t=6401132ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl?page=welcome" (RelFrameId=1.2, Internal ID=1250)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_1 = Denver".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_2 = Frankfurt".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_3 = London".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_4 = Los Angeles".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_5 = Paris".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_6 = Portland".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_7 = San Francisco".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_8 = Seattle".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_9 = Sydney".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_10 = Zurich".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_11 = Denver".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_12 = Frankfurt".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_13 = London".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_14 = Los Angeles".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_15 = Paris".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_16 = Portland".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_17 = San Francisco".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_18 = Seattle".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_19 = Sydney".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_20 = Zurich".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatPrefs_1 = Aisle".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatPrefs_2 = Window".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatPrefs_3 = None".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatTypes_1 = First".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatTypes_2 = Business".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatTypes_3 = Coach".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): t=6401135ms: 297-byte response headers for "http://localhost:1080/WebTours/images/button_next.gif" (RelFrameId=, Internal ID=1253)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Date: Sat, 24 Apr 2021 16:52:03 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     ETag: "800000004b045-2f6-4b654c0620500"\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Accept-Ranges: bytes\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Content-Length: 758\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Keep-Alive: timeout=5, max=96\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     Content-Type: image/gif\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): t=6401136ms: 758-byte response body for "http://localhost:1080/WebTours/images/button_next.gif" (RelFrameId=, Internal ID=1253)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "cities_count = 20".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatPrefs_count = 3".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Notify: Saving Parameter "seatTypes_count = 3".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Registered web_reg_find successful for "Text=<title>Flight Selections</title>" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): Registered web_reg_find successful for "Text=Departure City :" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(85): web_image("Search Flights Button") was successful, 8516 body bytes, 1616 header bytes, 43 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(90): Notify: Parameter Substitution: parameter "cities_count" =  "20"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(90): Notify: Parameter Substitution: parameter "cities_20" =  "Zurich"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(90): Notify: Saving Parameter "departureCity = Zurich".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(91): Notify: Parameter Substitution: parameter "cities_count" =  "20"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(91): Notify: Parameter Substitution: parameter "cities_2" =  "Frankfurt"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(91): Notify: Saving Parameter "arrivalCity = Frankfurt".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(92): Notify: Parameter Substitution: parameter "departureCity" =  "Zurich"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(92): Notify: Parameter Substitution: parameter "arrivalCity" =  "Frankfurt"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(97): Notify: Parameter Substitution: parameter "seatPrefs_count" =  "3"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(97): Notify: Parameter Substitution: parameter "seatPrefs_1" =  "Aisle"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(97): Notify: Saving Parameter "seatPref = Aisle".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(98): Notify: Parameter Substitution: parameter "seatTypes_count" =  "3"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(98): Notify: Parameter Substitution: parameter "seatTypes_2" =  "Business"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(98): Notify: Saving Parameter "seatType = Business".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(100): Notify: Transaction "open_flights_page" ended with a "Pass" status (Duration: 0,1633 Wasted Time: 0,0019).	[MsgId: MMSG-16871]
+Action.c(14): lr_think_time: 10,00 seconds.	[MsgId: MMSG-15948]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(104): Notify: Transaction "search_flights" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(106): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(106): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(110): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(110): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Notify: Parameter Substitution: parameter "departureCity" =  "London"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Notify: Parameter Substitution: parameter "arrivalCity" =  "Seattle"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Notify: Parameter Substitution: parameter "departureDate" =  "04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): web_submit_form("reservations.pl") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "departureCity" =  "London"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "departureDate" =  "04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "arrivalCity" =  "Seattle"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "arrivalDate" =  "04/29/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "passengersNum" =  "3"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "seatPref" =  "Window"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "seatType" =  "Business"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6402572ms: 256-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1170)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Date: Sat, 24 Apr 2021 16:52:04 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Expires: Fri, 23 Apr 2021 16:52:04 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Keep-Alive: timeout=5, max=100\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6402572ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1170)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     98b\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6402572ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1170)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6402573ms: 2443-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1170)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <title>Flight Selections</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Find Flight</font></b></h1><bl
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <form method="post" action="reservations.pl" enctype="application/x-www-form-urlencoded">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <!-- From London (2) To Seattle (7) -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <table cellspacing="2" border="0" width="50%">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <blockquote>Flight departing from <B>London</B> to <B>Seattle</B> on <B>04/27/2021</B><BR/
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ><BR/><tr bgcolor="#5E7884"><td align="center"><font color="white"><B>Flight</B></font>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):           \t\t<td align="center"><font color="white"><B>Departure time</B>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):           \t\t<td align="center"><font color="white"><B>Cost</B>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="outboundFlight" value="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     270;819;04/27/2021" checked="checked" >Blue Sky Air 270<td align="center">8am<td align="ce
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     nter">$ 819</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="ou
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     tboundFlight" value="271;730;04/27/2021">Blue Sky Air 271<td align="center">1pm<td align="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     center">$ 730</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     outboundFlight" value="272;775;04/27/2021">Blue Sky Air 272<td align="center">5pm<td align
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ="center">$ 775</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ="outboundFlight" value="273;670;04/27/2021">Blue Sky Air 273<td align="center">11pm<td al
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ign="center">$ 670</TD></TR></table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <input type="hidden" name="numPassengers" value="3"  /><input type="hidden" name="advanceD
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     iscount" value="0"  /><input type="hidden" name="seatType" value="Business"  /><input type
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ="hidden" name="seatPref" value="Window"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <P><center><table width=80% cellspacing=1><tr><td align=center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <input type="image" name="reserveFlights" src="/WebTours/images/button_next.gif" border="0
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     " />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <td>&nbsp;<td align=center></table></center></form></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6402576ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1170)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_1 = 270;819;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_2 = 271;730;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_3 = 272;775;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_4 = 273;670;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_count = 4".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Registered web_reg_find successful for "Text=Flight departing from <B>London</B> to <B>Seattle</B> on <B>04/27/2021</B>" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): web_submit_form("reservations.pl") was successful, 2443 body bytes, 256 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(137): Notify: Parameter Substitution: parameter "flightNums_count" =  "4"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(137): Notify: Parameter Substitution: parameter "flightNums_3" =  "272;775;04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(137): Notify: Saving Parameter "flightNum = 272;775;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(140): Notify: Transaction "search_flights" ended with a "Pass" status (Duration: 0,1410 Wasted Time: 0,0010).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(144): Notify: Transaction "choose_flight" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(146): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(146): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): web_submit_form("reservations.pl_2") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Notify: Parameter Substitution: parameter "flightNum" =  "272;775;04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6402745ms: 255-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1171)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Date: Sat, 24 Apr 2021 16:52:04 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Expires: Fri, 23 Apr 2021 16:52:05 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6402746ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1171)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     b49\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6402746ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1171)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6402746ms: 2889-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1171)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <title>Flight Reservation</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Payment Details</font></b></h1
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ><blockquote><form method="post" action="reservations.pl" enctype="application/x-www-form-
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     urlencoded" onsubmit="return true ;">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <table><tr><td align="right">First Name : <td><input type="text" name="firstName" value="N
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ame6D" size="15" /><tr><td align="right">Last Name : <td><input type="text" name="lastName
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     " value="Surname6D&#10;" size="15" /><tr><td align="right">Street Address : <td colspan="3
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     "><input type="text" name="address1" value="Street6D" size="30" /><tr><td align="right">Ci
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ty/State/Zip : <td colspan="3"><input type="text" name="address2" value="Address6D" size="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     30" /><tr><td align="right">Passenger Names : <td colspan="3"><input type="text" name="pas
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     s1" value="Name6D Surname6D&#10;" size="30" /><tr><td><td colspan="3"><input type="text" n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ame="pass2"  size="30" /><tr><td><td colspan="3"><input type="text" name="pass3"  size="30
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     " /><tr><td height="10"><tr><td height="10" align="center" colspan="4">Total for 3 ticket(
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     s) is = $ 2325<tr><td align="right">Credit Card : <td><input type="text" name="creditCard"
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):       size="20" maxlength="20" /><td align="right">Exp Date : <td><input type="text" name="exp
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Date" value="&#10;" size="5" maxlength="5" /><tr><TD><td colspan="3" align="left"><label><
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     input type="checkbox" name="saveCC" value="on" />Save this Credit Card Information</label>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <input type="hidden" name="oldCCOption" value=""  /></table><input type="hidden" name="num
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Passengers" value="3"  /><input type="hidden" name="seatType" value="Business"  /><input t
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ype="hidden" name="seatPref" value="Window"  /><input type="hidden" name="outboundFlight" 
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     value="272;775;04/27/2021"  /><input type="hidden" name="advanceDiscount" value="0"  /><in
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     put type="hidden" name="returnFlight" value=""  /><input type="hidden" name="JSFormSubmit"
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):      value="off"  /><center><table width=80% cellspacing=1><tr><td align=center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <input type="image" name="buyFlights" src="/WebTours/images/button_next.gif" border="0" />
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <div><input type="hidden" name=".cgifields" value="saveCC"  /></div></form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <td>&nbsp;<td align=center><form method="post" action="reservations.pl" enctype="applicati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     on/x-www-form-urlencoded" onsubmit="void(0);">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </form></table></center></blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6402748ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1171)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Registered web_reg_find successful for "Text=<title>Flight Reservation</title>" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): web_submit_form("reservations.pl_2") was successful, 2889 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(157): Notify: Transaction "choose_flight" ended with a "Pass" status (Duration: 0,1713 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(20): lr_think_time: 21,00 seconds.	[MsgId: MMSG-15948]
+Action.c(22): Notify: Transaction "buy_ticket" started.	[MsgId: MMSG-16999]
+Action.c(24): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(24): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(24): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(26): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(26): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(31): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(31): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(34): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(34): Notify: Next row for parameter firstName = 7 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "firstName" =  "Name7D"	[MsgId: MMSG-13992]
+Action.c(34): Notify: Next row for parameter lastName = 7 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "lastName" =  "Surname7D"	[MsgId: MMSG-13992]
+Action.c(34): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(37): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(37): Notify: Parameter Substitution: parameter "seatType" =  "Coach"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "departureCity" =  "San Francisco"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "arrivalCity" =  "Sydney"	[MsgId: MMSG-13992]
+Action.c(37): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(40): Notify: Next row for parameter cardNumber = 7 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(40): Notify: Parameter Substitution: parameter "cardNumber" =  "1237888899990000"	[MsgId: MMSG-13992]
+Action.c(40): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(43): Notify: Parameter Substitution: parameter "passengersNum" =  "4"	[MsgId: MMSG-13992]
+Action.c(61): Notify: Parameter Substitution: parameter "passengersNum" =  "4"	[MsgId: MMSG-13992]
+Action.c(62): web_submit_form("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(62): Notify: Next row for parameter firstName = 7 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "firstName" =  "Name7D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter lastName = 7 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "lastName" =  "Surname7D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter street = 7 [table  = street].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "street" =  "Street7D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter address = 7 [table  = address].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "address" =  "Address7D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter firstName = 7 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "firstName" =  "Name7D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter lastName = 7 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "lastName" =  "Surname7D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter cardNumber = 7 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "cardNumber" =  "1237888899990000"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter expDate = 7 [table  = expDate].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "expDate" =  "11/22"	[MsgId: MMSG-13992]
+Action.c(62): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(62): t=6406670ms: 392-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1200)
+Action.c(62):     HTTP/1.1 200 OK\r\n
+Action.c(62):     Date: Sat, 24 Apr 2021 16:52:08 GMT\r\n
+Action.c(62):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(62):     Expires: Fri, 23 Apr 2021 16:52:08 GMT\r\n
+Action.c(62):     Set-Cookie: MTUserInfo=firstName&Name7D&username&username7D&address2&Address7D&hash&36&add
+Action.c(62):     ress1&Street7D&lastName&Surname7D%0A; path=/\r\n
+Action.c(62):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(62):     Connection: Keep-Alive\r\n
+Action.c(62):     Transfer-Encoding: chunked\r\n
+Action.c(62):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(62):     \r\n
+Action.c(62): t=6406670ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1200)
+Action.c(62):     9cb\r\n
+Action.c(62): t=6406671ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1200)
+Action.c(62):     \r\n
+Action.c(62): t=6406671ms: 2507-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1200)
+Action.c(62):     <!DOCTYPE html\n
+Action.c(62):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(62):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(62):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(62):     <head>\n
+Action.c(62):     <title>Reservation Made!</title>\n
+Action.c(62):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(62):     </head>\n
+Action.c(62):     <body bgcolor="#E0E7F1">\n
+Action.c(62):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(62):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(62):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+Action.c(62):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Invoice</font></b></h1><blockq
+Action.c(62):     uote>\n
+Action.c(62):     <CENTER>\n
+Action.c(62):     <small><B>Thank you for booking through Web Tours.</B></small>\n
+Action.c(62):     <BR/>\n
+Action.c(62):     <BR/>\n
+Action.c(62):     <!-- Customer Name header -->\n
+Action.c(62):     <Table width="85%" border="0" cellspacing="0" >\n
+Action.c(62):       <TR bgcolor="#5E7884">\n
+Action.c(62):          <TD colspan="2" align="center">\n
+Action.c(62):             <font color="white"><b>Name7DSurname7D's Flight Invoice</b></font>\n
+Action.c(62):          </TD>\n
+Action.c(62):          <TD width="160" align="right">\n
+Action.c(62):              <font color="white"><small>Sat Apr 24 19:52:08 2021\n
+Action.c(62):     </small>\n
+Action.c(62):          </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     </Table>\n
+Action.c(62):     \n
+Action.c(62):     <Table width="85%" border="0" cellspacing="1" >\n
+Action.c(62):     <!-- Flight Item header -->\n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):          <TD colspan="2" align="left">\n
+Action.c(62):              Flights Reservation Requests:\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD align="center">Cost\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     \n
+Action.c(62):     <!-- Flight reserved -->\n
+Action.c(62):     <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD valign="top">1.</TD>\n
+Action.c(62):         <TD align="left">\n
+Action.c(62):            <b><u>4 Coach Class tickets from San Francisco to Sydney.</u></b>\n
+Action.c(62):     <br/>\n
+Action.c(62):     <center>\n
+Action.c(62):            <i>\n
+Action.c(62):               04/27/2021 :  1pm : Flight 681 leaves San Francisco  for Sydney.<br>\n
+Action.c(62):            <br/>\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD valign="top">\n
+Action.c(62):              $2620\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     <!-- Total Cost -->\n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD>*\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD > Total Cost\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD>\n
+Action.c(62):            <b> $2620 </b>\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     \n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD>-\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD >\n
+Action.c(62):            Total Charged to Credit Card # 1237888899990000\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD>\n
+Action.c(62):            <b> $2620 </b>\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     \n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD>*\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD >\n
+Action.c(62):             Credit Account Balance\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD>\n
+Action.c(62):            <b> $0.00 </b>\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR></Table>\n
+Action.c(62):     <BR/>\n
+Action.c(62):     <Table width="85%" border="0">\n
+Action.c(62):       <tr>\n
+Action.c(62):         <td align=right>\n
+Action.c(62):     <form method="post" action="" enctype="application/x-www-form-urlencoded">\n
+Action.c(62):     <input type="image" name="Book Another" src="/WebTours/images/bookanother.gif" border="0" 
+Action.c(62):     /></form>    </td>\n
+Action.c(62):       </tr>\n
+Action.c(62):     </Table>\n
+Action.c(62):     \n
+Action.c(62):     </Center>\n
+Action.c(62):     \n
+Action.c(62):     </body>\n
+Action.c(62):     </html>
+Action.c(62): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(62): t=6406674ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1200)
+Action.c(62):     0\r\n
+Action.c(62):     \r\n
+Action.c(62): t=6406676ms: 299-byte response headers for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1201)
+Action.c(62):     HTTP/1.1 200 OK\r\n
+Action.c(62):     Date: Sat, 24 Apr 2021 16:52:08 GMT\r\n
+Action.c(62):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(62):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(62):     ETag: "3700000004b042-326-4b654c0620500"\r\n
+Action.c(62):     Accept-Ranges: bytes\r\n
+Action.c(62):     Content-Length: 806\r\n
+Action.c(62):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(62):     Connection: Keep-Alive\r\n
+Action.c(62):     Content-Type: image/gif\r\n
+Action.c(62):     \r\n
+Action.c(62): t=6406677ms: 806-byte response body for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1201)
+Action.c(62): Registered web_reg_find successful for "Text=<title>Reservation Made!</title>" (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): Registered web_reg_find successful for "Text=Name7DSurname7D's Flight Invoice" (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): Registered web_reg_find successful for "Text=Coach Class tickets from San Francisco to Sydney." (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): Registered web_reg_find successful for "Text= Total Charged to Credit Card # 1237888899990000" (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): web_submit_form("reservations.pl_3") was successful, 3313 body bytes, 691 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(79): Notify: Transaction "buy_ticket" ended with a "Pass" status (Duration: 0,1197 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(192): Notify: Transaction "logout" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406805ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1202)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:09 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MSO=SID&1619283129; path=/\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MTUserInfo=; path=/; expires=Fri, 23-Apr-2021 16:52:09 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406805ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1202)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     2ae\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406805ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1202)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406806ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1202)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!-- \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      A Session ID has been created and loaded into a cookie called MSO.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      Also, the server options have been loaded into the cookie called\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      MSO as well.  The server options can be set via the Admin page.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      --->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <!-- Frame Set -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <frameset cols="160,*" border="1" frameborder="1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Navigation Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Home Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        </frameset>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406807ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=1204)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t<title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     N: none}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     CORATION: underline}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#e0e7f1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <H1><b>Web Tours</b></H1>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Welcome to the Web Tours site.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To make reservations,please enter your account information to the left.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     tration</b></A> link.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><br/><br/><br/><br/><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </blockquote></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406809ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1202)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406870ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1203)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:09 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Expires: Fri, 23 Apr 2021 16:52:09 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406870ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1203)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     5ce\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406871ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1203)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406871ms: 1486-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1203)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours Navigation Bar</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     blockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     small {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <input type="hidden" name="userSession" value="131169.147752126zHtHAVDpADHftAticpAHiccf"/>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0"><tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Username</small></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Password</small></td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6406874ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1203)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") was successful, 2172 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(202): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,1970 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(107): Notify: Transaction "UC_04_BuyTickets" ended with a "Pass" status (Duration: 39,1903 Think Time: 38,0163 Wasted Time: 0,0030).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 16 (thread 14740), ended OK."	[MsgId: MMSG-10695]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(104): Notify: Transaction "search_flights" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(106): web_add_auto_header("Origin") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(106): web_add_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(110): web_reg_save_param_regexp started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(110): Registering web_reg_save_param_regexp was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Notify: Parameter Substitution: parameter "departureCity" =  "Zurich"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Notify: Parameter Substitution: parameter "arrivalCity" =  "Frankfurt"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Notify: Parameter Substitution: parameter "departureDate" =  "04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(118): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): web_submit_form("reservations.pl") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "departureCity" =  "Zurich"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "departureDate" =  "04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "arrivalCity" =  "Frankfurt"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "arrivalDate" =  "04/29/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "passengersNum" =  "5"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "seatPref" =  "Aisle"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Parameter Substitution: parameter "seatType" =  "Business"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6411278ms: 256-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1254)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Date: Sat, 24 Apr 2021 16:52:13 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Expires: Fri, 23 Apr 2021 16:52:13 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Keep-Alive: timeout=5, max=100\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6411278ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1254)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     98e\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6411278ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1254)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6411278ms: 2446-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1254)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <title>Flight Selections</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Find Flight</font></b></h1><bl
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <form method="post" action="reservations.pl" enctype="application/x-www-form-urlencoded">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <!-- From Zurich (9) To Frankfurt (1) -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <table cellspacing="2" border="0" width="50%">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <blockquote>Flight departing from <B>Zurich</B> to <B>Frankfurt</B> on <B>04/27/2021</B><B
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     R/><BR/><tr bgcolor="#5E7884"><td align="center"><font color="white"><B>Flight</B></font>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):           \t\t<td align="center"><font color="white"><B>Departure time</B>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):           \t\t<td align="center"><font color="white"><B>Cost</B>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="outboundFlight" value="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     910;287;04/27/2021" checked="checked" >Blue Sky Air 910<td align="center">8am<td align="ce
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     nter">$ 287</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="ou
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     tboundFlight" value="911;255;04/27/2021">Blue Sky Air 911<td align="center">1pm<td align="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     center">$ 255</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     outboundFlight" value="912;271;04/27/2021">Blue Sky Air 912<td align="center">5pm<td align
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ="center">$ 271</TD></TR><tr bgcolor="#EFF2F7"><td align="center"><input type="radio" name
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ="outboundFlight" value="913;234;04/27/2021">Blue Sky Air 913<td align="center">11pm<td al
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ign="center">$ 234</TD></TR></table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <input type="hidden" name="numPassengers" value="5"  /><input type="hidden" name="advanceD
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     iscount" value="0"  /><input type="hidden" name="seatType" value="Business"  /><input type
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     ="hidden" name="seatPref" value="Aisle"  />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <P><center><table width=80% cellspacing=1><tr><td align=center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <input type="image" name="reserveFlights" src="/WebTours/images/button_next.gif" border="0
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     " />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     <td>&nbsp;<td align=center></table></center></form></center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): t=6411282ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1254)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_1 = 910;287;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_2 = 911;255;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_3 = 912;271;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_4 = 913;234;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Notify: Saving Parameter "flightNums_count = 4".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): Registered web_reg_find successful for "Text=Flight departing from <B>Zurich</B> to <B>Frankfurt</B> on <B>04/27/2021</B>" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(121): web_submit_form("reservations.pl") was successful, 2446 body bytes, 256 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(137): Notify: Parameter Substitution: parameter "flightNums_count" =  "4"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(137): Notify: Parameter Substitution: parameter "flightNums_1" =  "910;287;04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(137): Notify: Saving Parameter "flightNum = 910;287;04/27/2021".	[MsgId: MMSG-13798]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(140): Notify: Transaction "search_flights" ended with a "Pass" status (Duration: 0,1362 Wasted Time: 0,0007).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(144): Notify: Transaction "choose_flight" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(146): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(146): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): web_submit_form("reservations.pl_2") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Notify: Parameter Substitution: parameter "flightNum" =  "910;287;04/27/2021"	[MsgId: MMSG-13992]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6411451ms: 255-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1255)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Date: Sat, 24 Apr 2021 16:52:13 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Expires: Fri, 23 Apr 2021 16:52:13 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6411452ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1255)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     bd2\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6411452ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1255)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6411452ms: 3026-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1255)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <title>Flight Reservation</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Payment Details</font></b></h1
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ><blockquote><form method="post" action="reservations.pl" enctype="application/x-www-form-
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     urlencoded" onsubmit="return true ;">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <table><tr><td align="right">First Name : <td><input type="text" name="firstName" value="N
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ame4D" size="15" /><tr><td align="right">Last Name : <td><input type="text" name="lastName
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     " value="Surname4D&#10;" size="15" /><tr><td align="right">Street Address : <td colspan="3
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     "><input type="text" name="address1" value="Street4D" size="30" /><tr><td align="right">Ci
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ty/State/Zip : <td colspan="3"><input type="text" name="address2" value="Address4D" size="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     30" /><tr><td align="right">Passenger Names : <td colspan="3"><input type="text" name="pas
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     s1" value="Name4D Surname4D&#10;" size="30" /><tr><td><td colspan="3"><input type="text" n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ame="pass2"  size="30" /><tr><td><td colspan="3"><input type="text" name="pass3"  size="30
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     " /><tr><td><td colspan="3"><input type="text" name="pass4"  size="30" /><tr><td><td colsp
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     an="3"><input type="text" name="pass5"  size="30" /><tr><td height="10"><tr><td height="10
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     " align="center" colspan="4">Total for 5 ticket(s) is = $ 1435<tr><td align="right">Credit
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):      Card : <td><input type="text" name="creditCard"  size="20" maxlength="20" /><td align="ri
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     ght">Exp Date : <td><input type="text" name="expDate" value="&#10;" size="5" maxlength="5"
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):      /><tr><TD><td colspan="3" align="left"><label><input type="checkbox" name="saveCC" value=
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     "on" />Save this Credit Card Information</label><input type="hidden" name="oldCCOption" va
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     lue=""  /></table><input type="hidden" name="numPassengers" value="5"  /><input type="hidd
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     en" name="seatType" value="Business"  /><input type="hidden" name="seatPref" value="Aisle"
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):       /><input type="hidden" name="outboundFlight" value="910;287;04/27/2021"  /><input type="
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     hidden" name="advanceDiscount" value="0"  /><input type="hidden" name="returnFlight" value
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     =""  /><input type="hidden" name="JSFormSubmit" value="off"  /><center><table width=80% ce
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     llspacing=1><tr><td align=center>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <input type="image" name="buyFlights" src="/WebTours/images/button_next.gif" border="0" />
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <div><input type="hidden" name=".cgifields" value="saveCC"  /></div></form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     <td>&nbsp;<td align=center><form method="post" action="reservations.pl" enctype="applicati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     on/x-www-form-urlencoded" onsubmit="void(0);">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </form></table></center></blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Resource "http://localhost:1080/WebTours/images/button_next.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): t=6411455ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1255)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): Registered web_reg_find successful for "Text=<title>Flight Reservation</title>" (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(149): web_submit_form("reservations.pl_2") was successful, 3026 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(157): Notify: Transaction "choose_flight" ended with a "Pass" status (Duration: 0,1721 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(20): lr_think_time: 21,00 seconds.	[MsgId: MMSG-15948]
+Action.c(22): Notify: Transaction "buy_ticket" started.	[MsgId: MMSG-16999]
+Action.c(24): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(24): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(24): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(26): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(26): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(31): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(31): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(34): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(34): Notify: Next row for parameter firstName = 2 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "firstName" =  "Name2D"	[MsgId: MMSG-13992]
+Action.c(34): Notify: Next row for parameter lastName = 2 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "lastName" =  "Surname2D"	[MsgId: MMSG-13992]
+Action.c(34): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(37): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(37): Notify: Parameter Substitution: parameter "seatType" =  "Business"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "departureCity" =  "San Francisco"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "arrivalCity" =  "Los Angeles"	[MsgId: MMSG-13992]
+Action.c(37): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(40): Notify: Next row for parameter cardNumber = 2 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(40): Notify: Parameter Substitution: parameter "cardNumber" =  "1232333344445555"	[MsgId: MMSG-13992]
+Action.c(40): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(43): Notify: Parameter Substitution: parameter "passengersNum" =  "4"	[MsgId: MMSG-13992]
+Action.c(61): Notify: Parameter Substitution: parameter "passengersNum" =  "4"	[MsgId: MMSG-13992]
+Action.c(62): web_submit_form("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(62): Notify: Next row for parameter firstName = 2 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "firstName" =  "Name2D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter lastName = 2 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "lastName" =  "Surname2D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter street = 2 [table  = street].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "street" =  "Street2D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter address = 2 [table  = address].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "address" =  "Address2D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter firstName = 2 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "firstName" =  "Name2D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter lastName = 2 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "lastName" =  "Surname2D"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter cardNumber = 2 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "cardNumber" =  "1232333344445555"	[MsgId: MMSG-13992]
+Action.c(62): Notify: Next row for parameter expDate = 2 [table  = expDate].	[MsgId: MMSG-13876]
+Action.c(62): Notify: Parameter Substitution: parameter "expDate" =  "11/22"	[MsgId: MMSG-13992]
+Action.c(62): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(62): t=6415328ms: 391-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1284)
+Action.c(62):     HTTP/1.1 200 OK\r\n
+Action.c(62):     Date: Sat, 24 Apr 2021 16:52:17 GMT\r\n
+Action.c(62):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(62):     Expires: Fri, 23 Apr 2021 16:52:17 GMT\r\n
+Action.c(62):     Set-Cookie: MTUserInfo=firstName&Name2D&username&username2D&address2&Address2D&hash&4&addr
+Action.c(62):     ess1&Street2D&lastName&Surname2D%0A; path=/\r\n
+Action.c(62):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(62):     Connection: Keep-Alive\r\n
+Action.c(62):     Transfer-Encoding: chunked\r\n
+Action.c(62):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(62):     \r\n
+Action.c(62): t=6415329ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1284)
+Action.c(62):     9d5\r\n
+Action.c(62): t=6415329ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1284)
+Action.c(62):     \r\n
+Action.c(62): t=6415329ms: 2517-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1284)
+Action.c(62):     <!DOCTYPE html\n
+Action.c(62):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(62):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(62):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(62):     <head>\n
+Action.c(62):     <title>Reservation Made!</title>\n
+Action.c(62):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(62):     </head>\n
+Action.c(62):     <body bgcolor="#E0E7F1">\n
+Action.c(62):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(62):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(62):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+Action.c(62):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Invoice</font></b></h1><blockq
+Action.c(62):     uote>\n
+Action.c(62):     <CENTER>\n
+Action.c(62):     <small><B>Thank you for booking through Web Tours.</B></small>\n
+Action.c(62):     <BR/>\n
+Action.c(62):     <BR/>\n
+Action.c(62):     <!-- Customer Name header -->\n
+Action.c(62):     <Table width="85%" border="0" cellspacing="0" >\n
+Action.c(62):       <TR bgcolor="#5E7884">\n
+Action.c(62):          <TD colspan="2" align="center">\n
+Action.c(62):             <font color="white"><b>Name2DSurname2D's Flight Invoice</b></font>\n
+Action.c(62):          </TD>\n
+Action.c(62):          <TD width="160" align="right">\n
+Action.c(62):              <font color="white"><small>Sat Apr 24 19:52:17 2021\n
+Action.c(62):     </small>\n
+Action.c(62):          </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     </Table>\n
+Action.c(62):     \n
+Action.c(62):     <Table width="85%" border="0" cellspacing="1" >\n
+Action.c(62):     <!-- Flight Item header -->\n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):          <TD colspan="2" align="left">\n
+Action.c(62):              Flights Reservation Requests:\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD align="center">Cost\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     \n
+Action.c(62):     <!-- Flight reserved -->\n
+Action.c(62):     <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD valign="top">1.</TD>\n
+Action.c(62):         <TD align="left">\n
+Action.c(62):            <b><u>4 Business Class tickets from San Francisco to Los Angeles.</u></b>\n
+Action.c(62):     <br/>\n
+Action.c(62):     <center>\n
+Action.c(62):            <i>\n
+Action.c(62):               04/27/2021 :  5pm : Flight 632 leaves San Francisco  for Los Angeles.<br>\n
+Action.c(62):            <br/>\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD valign="top">\n
+Action.c(62):              $328\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     <!-- Total Cost -->\n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD>*\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD > Total Cost\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD>\n
+Action.c(62):            <b> $328 </b>\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     \n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD>-\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD >\n
+Action.c(62):            Total Charged to Credit Card # 1232333344445555\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD>\n
+Action.c(62):            <b> $328 </b>\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR>\n
+Action.c(62):     \n
+Action.c(62):       <TR bgcolor="#EFF2F7">\n
+Action.c(62):         <TD>*\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD >\n
+Action.c(62):             Credit Account Balance\n
+Action.c(62):         </TD>\n
+Action.c(62):         <TD>\n
+Action.c(62):            <b> $0.00 </b>\n
+Action.c(62):         </TD>\n
+Action.c(62):       </TR></Table>\n
+Action.c(62):     <BR/>\n
+Action.c(62):     <Table width="85%" border="0">\n
+Action.c(62):       <tr>\n
+Action.c(62):         <td align=right>\n
+Action.c(62):     <form method="post" action="" enctype="application/x-www-form-urlencoded">\n
+Action.c(62):     <input type="image" name="Book Another" src="/WebTours/images/bookanother.gif" border="0" 
+Action.c(62):     /></form>    </td>\n
+Action.c(62):       </tr>\n
+Action.c(62):     </Table>\n
+Action.c(62):     \n
+Action.c(62):     </Center>\n
+Action.c(62):     \n
+Action.c(62):     </body>\n
+Action.c(62):     </html>
+Action.c(62): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(62): t=6415333ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1284)
+Action.c(62):     0\r\n
+Action.c(62):     \r\n
+Action.c(62): t=6415335ms: 299-byte response headers for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1285)
+Action.c(62):     HTTP/1.1 200 OK\r\n
+Action.c(62):     Date: Sat, 24 Apr 2021 16:52:17 GMT\r\n
+Action.c(62):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(62):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(62):     ETag: "3700000004b042-326-4b654c0620500"\r\n
+Action.c(62):     Accept-Ranges: bytes\r\n
+Action.c(62):     Content-Length: 806\r\n
+Action.c(62):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(62):     Connection: Keep-Alive\r\n
+Action.c(62):     Content-Type: image/gif\r\n
+Action.c(62):     \r\n
+Action.c(62): t=6415336ms: 806-byte response body for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1285)
+Action.c(62): Registered web_reg_find successful for "Text=<title>Reservation Made!</title>" (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): Registered web_reg_find successful for "Text=Name2DSurname2D's Flight Invoice" (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): Registered web_reg_find successful for "Text=Business Class tickets from San Francisco to Los Angeles." (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): Registered web_reg_find successful for "Text= Total Charged to Credit Card # 1232333344445555" (count=1)  	[MsgId: MMSG-26364]
+Action.c(62): web_submit_form("reservations.pl_3") was successful, 3323 body bytes, 690 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(79): Notify: Transaction "buy_ticket" ended with a "Pass" status (Duration: 0,1190 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(192): Notify: Transaction "logout" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415479ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1286)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:17 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MSO=SID&1619283137; path=/\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MTUserInfo=; path=/; expires=Fri, 23-Apr-2021 16:52:17 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415479ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1286)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     2ae\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415479ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1286)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415479ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1286)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!-- \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      A Session ID has been created and loaded into a cookie called MSO.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      Also, the server options have been loaded into the cookie called\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      MSO as well.  The server options can be set via the Admin page.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      --->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <!-- Frame Set -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <frameset cols="160,*" border="1" frameborder="1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Navigation Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Home Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        </frameset>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415481ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=1288)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t<title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     N: none}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     CORATION: underline}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#e0e7f1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <H1><b>Web Tours</b></H1>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Welcome to the Web Tours site.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To make reservations,please enter your account information to the left.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     tration</b></A> link.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><br/><br/><br/><br/><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </blockquote></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415483ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1286)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415545ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1287)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:17 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Expires: Fri, 23 Apr 2021 16:52:17 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415546ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1287)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     5d2\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415546ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1287)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415546ms: 1490-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1287)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours Navigation Bar</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     blockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     small {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <input type="hidden" name="userSession" value="131169.148400162zHtHAVDpAHAiDDDDtAticpAHitc
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     f"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0"><tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Username</small></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Password</small></td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6415549ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1287)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") was successful, 2176 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(202): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,2135 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(107): Notify: Transaction "UC_04_BuyTickets" ended with a "Pass" status (Duration: 39,1737 Think Time: 38,0290 Wasted Time: 0,0026).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 14 (thread 8276), ended OK."	[MsgId: MMSG-10695]
+Action.c(22): Notify: Transaction "buy_ticket" started.	[MsgId: MMSG-16999]
+Action.c(24): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(24): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(24): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(26): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(26): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(31): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(31): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(34): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(34): Notify: Next row for parameter firstName = 6 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "firstName" =  "Name6D"	[MsgId: MMSG-13992]
+Action.c(34): Notify: Next row for parameter lastName = 6 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "lastName" =  "Surname6D"	[MsgId: MMSG-13992]
+Action.c(34): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(37): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(37): Notify: Parameter Substitution: parameter "seatType" =  "Business"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "departureCity" =  "London"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "arrivalCity" =  "Seattle"	[MsgId: MMSG-13992]
+Action.c(37): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(40): Notify: Next row for parameter cardNumber = 6 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(40): Notify: Parameter Substitution: parameter "cardNumber" =  "1236777788889999"	[MsgId: MMSG-13992]
+Action.c(40): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(43): Notify: Parameter Substitution: parameter "passengersNum" =  "3"	[MsgId: MMSG-13992]
+Action.c(44): web_submit_form("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(44): Notify: Next row for parameter firstName = 6 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "firstName" =  "Name6D"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter lastName = 6 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "lastName" =  "Surname6D"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter street = 6 [table  = street].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "street" =  "Street6D"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter address = 6 [table  = address].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "address" =  "Address6D"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter firstName = 6 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "firstName" =  "Name6D"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter lastName = 6 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "lastName" =  "Surname6D"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter cardNumber = 6 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "cardNumber" =  "1236777788889999"	[MsgId: MMSG-13992]
+Action.c(44): Notify: Next row for parameter expDate = 6 [table  = expDate].	[MsgId: MMSG-13876]
+Action.c(44): Notify: Parameter Substitution: parameter "expDate" =  "11/22"	[MsgId: MMSG-13992]
+Action.c(44): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(44): t=6423876ms: 391-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1172)
+Action.c(44):     HTTP/1.1 200 OK\r\n
+Action.c(44):     Date: Sat, 24 Apr 2021 16:52:26 GMT\r\n
+Action.c(44):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(44):     Expires: Fri, 23 Apr 2021 16:52:26 GMT\r\n
+Action.c(44):     Set-Cookie: MTUserInfo=firstName&Name6D&username&username6D&address2&Address6D&hash&4&addr
+Action.c(44):     ess1&Street6D&lastName&Surname6D%0A; path=/\r\n
+Action.c(44):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(44):     Connection: Keep-Alive\r\n
+Action.c(44):     Transfer-Encoding: chunked\r\n
+Action.c(44):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(44):     \r\n
+Action.c(44): t=6423876ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1172)
+Action.c(44):     9c2\r\n
+Action.c(44): t=6423876ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1172)
+Action.c(44):     \r\n
+Action.c(44): t=6423876ms: 2498-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1172)
+Action.c(44):     <!DOCTYPE html\n
+Action.c(44):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(44):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(44):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(44):     <head>\n
+Action.c(44):     <title>Reservation Made!</title>\n
+Action.c(44):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(44):     </head>\n
+Action.c(44):     <body bgcolor="#E0E7F1">\n
+Action.c(44):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(44):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(44):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+Action.c(44):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Invoice</font></b></h1><blockq
+Action.c(44):     uote>\n
+Action.c(44):     <CENTER>\n
+Action.c(44):     <small><B>Thank you for booking through Web Tours.</B></small>\n
+Action.c(44):     <BR/>\n
+Action.c(44):     <BR/>\n
+Action.c(44):     <!-- Customer Name header -->\n
+Action.c(44):     <Table width="85%" border="0" cellspacing="0" >\n
+Action.c(44):       <TR bgcolor="#5E7884">\n
+Action.c(44):          <TD colspan="2" align="center">\n
+Action.c(44):             <font color="white"><b>Name6DSurname6D's Flight Invoice</b></font>\n
+Action.c(44):          </TD>\n
+Action.c(44):          <TD width="160" align="right">\n
+Action.c(44):              <font color="white"><small>Sat Apr 24 19:52:26 2021\n
+Action.c(44):     </small>\n
+Action.c(44):          </TD>\n
+Action.c(44):       </TR>\n
+Action.c(44):     </Table>\n
+Action.c(44):     \n
+Action.c(44):     <Table width="85%" border="0" cellspacing="1" >\n
+Action.c(44):     <!-- Flight Item header -->\n
+Action.c(44):       <TR bgcolor="#EFF2F7">\n
+Action.c(44):          <TD colspan="2" align="left">\n
+Action.c(44):              Flights Reservation Requests:\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD align="center">Cost\n
+Action.c(44):         </TD>\n
+Action.c(44):       </TR>\n
+Action.c(44):     \n
+Action.c(44):     <!-- Flight reserved -->\n
+Action.c(44):     <TR bgcolor="#EFF2F7">\n
+Action.c(44):         <TD valign="top">1.</TD>\n
+Action.c(44):         <TD align="left">\n
+Action.c(44):            <b><u>3 Business Class tickets from London to Seattle.</u></b>\n
+Action.c(44):     <br/>\n
+Action.c(44):     <center>\n
+Action.c(44):            <i>\n
+Action.c(44):               04/27/2021 :  5pm : Flight 272 leaves London  for Seattle.<br>\n
+Action.c(44):            <br/>\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD valign="top">\n
+Action.c(44):              $2325\n
+Action.c(44):         </TD>\n
+Action.c(44):       </TR>\n
+Action.c(44):     <!-- Total Cost -->\n
+Action.c(44):       <TR bgcolor="#EFF2F7">\n
+Action.c(44):         <TD>*\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD > Total Cost\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD>\n
+Action.c(44):            <b> $2325 </b>\n
+Action.c(44):         </TD>\n
+Action.c(44):       </TR>\n
+Action.c(44):     \n
+Action.c(44):       <TR bgcolor="#EFF2F7">\n
+Action.c(44):         <TD>-\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD >\n
+Action.c(44):            Total Charged to Credit Card # 1236777788889999\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD>\n
+Action.c(44):            <b> $2325 </b>\n
+Action.c(44):         </TD>\n
+Action.c(44):       </TR>\n
+Action.c(44):     \n
+Action.c(44):       <TR bgcolor="#EFF2F7">\n
+Action.c(44):         <TD>*\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD >\n
+Action.c(44):             Credit Account Balance\n
+Action.c(44):         </TD>\n
+Action.c(44):         <TD>\n
+Action.c(44):            <b> $0.00 </b>\n
+Action.c(44):         </TD>\n
+Action.c(44):       </TR></Table>\n
+Action.c(44):     <BR/>\n
+Action.c(44):     <Table width="85%" border="0">\n
+Action.c(44):       <tr>\n
+Action.c(44):         <td align=right>\n
+Action.c(44):     <form method="post" action="" enctype="application/x-www-form-urlencoded">\n
+Action.c(44):     <input type="image" name="Book Another" src="/WebTours/images/bookanother.gif" border="0" 
+Action.c(44):     /></form>    </td>\n
+Action.c(44):       </tr>\n
+Action.c(44):     </Table>\n
+Action.c(44):     \n
+Action.c(44):     </Center>\n
+Action.c(44):     \n
+Action.c(44):     </body>\n
+Action.c(44):     </html>
+Action.c(44): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(44): t=6423880ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1172)
+Action.c(44):     0\r\n
+Action.c(44):     \r\n
+Action.c(44): t=6423883ms: 299-byte response headers for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1173)
+Action.c(44):     HTTP/1.1 200 OK\r\n
+Action.c(44):     Date: Sat, 24 Apr 2021 16:52:26 GMT\r\n
+Action.c(44):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(44):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(44):     ETag: "3700000004b042-326-4b654c0620500"\r\n
+Action.c(44):     Accept-Ranges: bytes\r\n
+Action.c(44):     Content-Length: 806\r\n
+Action.c(44):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(44):     Connection: Keep-Alive\r\n
+Action.c(44):     Content-Type: image/gif\r\n
+Action.c(44):     \r\n
+Action.c(44): t=6423883ms: 806-byte response body for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1173)
+Action.c(44): Registered web_reg_find successful for "Text=<title>Reservation Made!</title>" (count=1)  	[MsgId: MMSG-26364]
+Action.c(44): Registered web_reg_find successful for "Text=Name6DSurname6D's Flight Invoice" (count=1)  	[MsgId: MMSG-26364]
+Action.c(44): Registered web_reg_find successful for "Text=Business Class tickets from London to Seattle." (count=1)  	[MsgId: MMSG-26364]
+Action.c(44): Registered web_reg_find successful for "Text= Total Charged to Credit Card # 1236777788889999" (count=1)  	[MsgId: MMSG-26364]
+Action.c(44): web_submit_form("reservations.pl_3") was successful, 3304 body bytes, 690 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(60): Notify: Transaction "buy_ticket" ended with a "Pass" status (Duration: 0,1208 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(192): Notify: Transaction "logout" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424028ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1174)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:26 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MSO=SID&1619283146; path=/\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MTUserInfo=; path=/; expires=Fri, 23-Apr-2021 16:52:26 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424028ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1174)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     2ae\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424028ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1174)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424028ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1174)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!-- \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      A Session ID has been created and loaded into a cookie called MSO.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      Also, the server options have been loaded into the cookie called\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      MSO as well.  The server options can be set via the Admin page.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      --->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <!-- Frame Set -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <frameset cols="160,*" border="1" frameborder="1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Navigation Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Home Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        </frameset>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424029ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=1176)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t<title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     N: none}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     CORATION: underline}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#e0e7f1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <H1><b>Web Tours</b></H1>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Welcome to the Web Tours site.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To make reservations,please enter your account information to the left.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     tration</b></A> link.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><br/><br/><br/><br/><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </blockquote></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424031ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1174)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424090ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1175)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:26 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Expires: Fri, 23 Apr 2021 16:52:26 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424090ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1175)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     5d1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424090ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1175)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424090ms: 1489-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1175)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours Navigation Bar</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     blockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     small {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <input type="hidden" name="userSession" value="131169.149129202zHtHAVDpVAiDDDDDtAticpAHizf
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     "/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0"><tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Username</small></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Password</small></td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6424093ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1175)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") was successful, 2175 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(202): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,2101 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(107): Notify: Transaction "UC_04_BuyTickets" ended with a "Pass" status (Duration: 39,1828 Think Time: 38,0254 Wasted Time: 0,0035).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 17 (thread 1860), ended OK."	[MsgId: MMSG-10695]
+Action.c(22): Notify: Transaction "buy_ticket" started.	[MsgId: MMSG-16999]
+Action.c(24): web_remove_auto_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(24): Previous automatically added web header for "Origin" removed  	[MsgId: MMSG-26587]
+Action.c(24): web_remove/revert_auto_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(26): web_remove_auto_header("Upgrade-Insecure-Requests") started  	[MsgId: MMSG-26355]
+Action.c(26): Previous automatically added web header for "Upgrade-Insecure-Requests" removed  	[MsgId: MMSG-26587]
+Action.c(26): web_remove/revert_auto_header("Upgrade-Insecure-Requests") was successful  	[MsgId: MMSG-26392]
+Action.c(28): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(28): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(31): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(31): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(34): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(34): Notify: Next row for parameter firstName = 4 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "firstName" =  "Name4D"	[MsgId: MMSG-13992]
+Action.c(34): Notify: Next row for parameter lastName = 4 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(34): Notify: Parameter Substitution: parameter "lastName" =  "Surname4D"	[MsgId: MMSG-13992]
+Action.c(34): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(37): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(37): Notify: Parameter Substitution: parameter "seatType" =  "Business"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "departureCity" =  "Zurich"	[MsgId: MMSG-13992]
+Action.c(37): Notify: Parameter Substitution: parameter "arrivalCity" =  "Frankfurt"	[MsgId: MMSG-13992]
+Action.c(37): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(40): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(40): Notify: Next row for parameter cardNumber = 4 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(40): Notify: Parameter Substitution: parameter "cardNumber" =  "1234555566667777"	[MsgId: MMSG-13992]
+Action.c(40): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(43): Notify: Parameter Substitution: parameter "passengersNum" =  "5"	[MsgId: MMSG-13992]
+Action.c(61): Notify: Parameter Substitution: parameter "passengersNum" =  "5"	[MsgId: MMSG-13992]
+Action.c(80): Notify: Parameter Substitution: parameter "passengersNum" =  "5"	[MsgId: MMSG-13992]
+Action.c(81): web_submit_form("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(81): Notify: Next row for parameter firstName = 4 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "firstName" =  "Name4D"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter lastName = 4 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "lastName" =  "Surname4D"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter street = 4 [table  = street].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "street" =  "Street4D"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter address = 4 [table  = address].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "address" =  "Address4D"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter firstName = 4 [table  = firstName].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "firstName" =  "Name4D"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter lastName = 4 [table  = lastName].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "lastName" =  "Surname4D"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter cardNumber = 4 [table  = cardNumber].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "cardNumber" =  "1234555566667777"	[MsgId: MMSG-13992]
+Action.c(81): Notify: Next row for parameter expDate = 4 [table  = expDate].	[MsgId: MMSG-13876]
+Action.c(81): Notify: Parameter Substitution: parameter "expDate" =  "11/22"	[MsgId: MMSG-13992]
+Action.c(81): Submitting form to "http://localhost:1080/cgi-bin/reservations.pl", Target Frame=""  	[MsgId: MMSG-27978]
+Action.c(81): t=6432553ms: 392-byte response headers for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1256)
+Action.c(81):     HTTP/1.1 200 OK\r\n
+Action.c(81):     Date: Sat, 24 Apr 2021 16:52:34 GMT\r\n
+Action.c(81):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(81):     Expires: Fri, 23 Apr 2021 16:52:34 GMT\r\n
+Action.c(81):     Set-Cookie: MTUserInfo=firstName&Name4D&username&username4D&address2&Address4D&hash&68&add
+Action.c(81):     ress1&Street4D&lastName&Surname4D%0A; path=/\r\n
+Action.c(81):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(81):     Connection: Keep-Alive\r\n
+Action.c(81):     Transfer-Encoding: chunked\r\n
+Action.c(81):     Content-Type: text/html; charset=ISO-8859-1\r\n
+Action.c(81):     \r\n
+Action.c(81): t=6432553ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1256)
+Action.c(81):     9c6\r\n
+Action.c(81): t=6432554ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1256)
+Action.c(81):     \r\n
+Action.c(81): t=6432554ms: 2502-byte chunked response body for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1256)
+Action.c(81):     <!DOCTYPE html\n
+Action.c(81):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+Action.c(81):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+Action.c(81):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+Action.c(81):     <head>\n
+Action.c(81):     <title>Reservation Made!</title>\n
+Action.c(81):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+Action.c(81):     </head>\n
+Action.c(81):     <body bgcolor="#E0E7F1">\n
+Action.c(81):     <style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; font-siz
+Action.c(81):     e : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family: taho
+Action.c(81):     ma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: black
+Action.c(81):     }</style><BR/><BR/><h1><font color="#003366">&nbsp;&nbsp;<b>Invoice</font></b></h1><blockq
+Action.c(81):     uote>\n
+Action.c(81):     <CENTER>\n
+Action.c(81):     <small><B>Thank you for booking through Web Tours.</B></small>\n
+Action.c(81):     <BR/>\n
+Action.c(81):     <BR/>\n
+Action.c(81):     <!-- Customer Name header -->\n
+Action.c(81):     <Table width="85%" border="0" cellspacing="0" >\n
+Action.c(81):       <TR bgcolor="#5E7884">\n
+Action.c(81):          <TD colspan="2" align="center">\n
+Action.c(81):             <font color="white"><b>Name4DSurname4D's Flight Invoice</b></font>\n
+Action.c(81):          </TD>\n
+Action.c(81):          <TD width="160" align="right">\n
+Action.c(81):              <font color="white"><small>Sat Apr 24 19:52:34 2021\n
+Action.c(81):     </small>\n
+Action.c(81):          </TD>\n
+Action.c(81):       </TR>\n
+Action.c(81):     </Table>\n
+Action.c(81):     \n
+Action.c(81):     <Table width="85%" border="0" cellspacing="1" >\n
+Action.c(81):     <!-- Flight Item header -->\n
+Action.c(81):       <TR bgcolor="#EFF2F7">\n
+Action.c(81):          <TD colspan="2" align="left">\n
+Action.c(81):              Flights Reservation Requests:\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD align="center">Cost\n
+Action.c(81):         </TD>\n
+Action.c(81):       </TR>\n
+Action.c(81):     \n
+Action.c(81):     <!-- Flight reserved -->\n
+Action.c(81):     <TR bgcolor="#EFF2F7">\n
+Action.c(81):         <TD valign="top">1.</TD>\n
+Action.c(81):         <TD align="left">\n
+Action.c(81):            <b><u>5 Business Class tickets from Zurich to Frankfurt.</u></b>\n
+Action.c(81):     <br/>\n
+Action.c(81):     <center>\n
+Action.c(81):            <i>\n
+Action.c(81):               04/27/2021 :  8am : Flight 910 leaves Zurich  for Frankfurt.<br>\n
+Action.c(81):            <br/>\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD valign="top">\n
+Action.c(81):              $1435\n
+Action.c(81):         </TD>\n
+Action.c(81):       </TR>\n
+Action.c(81):     <!-- Total Cost -->\n
+Action.c(81):       <TR bgcolor="#EFF2F7">\n
+Action.c(81):         <TD>*\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD > Total Cost\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD>\n
+Action.c(81):            <b> $1435 </b>\n
+Action.c(81):         </TD>\n
+Action.c(81):       </TR>\n
+Action.c(81):     \n
+Action.c(81):       <TR bgcolor="#EFF2F7">\n
+Action.c(81):         <TD>-\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD >\n
+Action.c(81):            Total Charged to Credit Card # 1234555566667777\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD>\n
+Action.c(81):            <b> $1435 </b>\n
+Action.c(81):         </TD>\n
+Action.c(81):       </TR>\n
+Action.c(81):     \n
+Action.c(81):       <TR bgcolor="#EFF2F7">\n
+Action.c(81):         <TD>*\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD >\n
+Action.c(81):             Credit Account Balance\n
+Action.c(81):         </TD>\n
+Action.c(81):         <TD>\n
+Action.c(81):            <b> $0.00 </b>\n
+Action.c(81):         </TD>\n
+Action.c(81):       </TR></Table>\n
+Action.c(81):     <BR/>\n
+Action.c(81):     <Table width="85%" border="0">\n
+Action.c(81):       <tr>\n
+Action.c(81):         <td align=right>\n
+Action.c(81):     <form method="post" action="" enctype="application/x-www-form-urlencoded">\n
+Action.c(81):     <input type="image" name="Book Another" src="/WebTours/images/bookanother.gif" border="0" 
+Action.c(81):     /></form>    </td>\n
+Action.c(81):       </tr>\n
+Action.c(81):     </Table>\n
+Action.c(81):     \n
+Action.c(81):     </Center>\n
+Action.c(81):     \n
+Action.c(81):     </body>\n
+Action.c(81):     </html>
+Action.c(81): Found resource "http://localhost:1080/WebTours/images/bookanother.gif" in HTML "http://localhost:1080/cgi-bin/reservations.pl"  	[MsgId: MMSG-26659]
+Action.c(81): t=6432557ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/reservations.pl" (RelFrameId=1, Internal ID=1256)
+Action.c(81):     0\r\n
+Action.c(81):     \r\n
+Action.c(81): t=6432559ms: 299-byte response headers for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1257)
+Action.c(81):     HTTP/1.1 200 OK\r\n
+Action.c(81):     Date: Sat, 24 Apr 2021 16:52:34 GMT\r\n
+Action.c(81):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(81):     Last-Modified: Thu, 12 Jan 2012 13:30:28 GMT\r\n
+Action.c(81):     ETag: "3700000004b042-326-4b654c0620500"\r\n
+Action.c(81):     Accept-Ranges: bytes\r\n
+Action.c(81):     Content-Length: 806\r\n
+Action.c(81):     Keep-Alive: timeout=5, max=100\r\n
+Action.c(81):     Connection: Keep-Alive\r\n
+Action.c(81):     Content-Type: image/gif\r\n
+Action.c(81):     \r\n
+Action.c(81): t=6432560ms: 806-byte response body for "http://localhost:1080/WebTours/images/bookanother.gif" (RelFrameId=, Internal ID=1257)
+Action.c(81): Registered web_reg_find successful for "Text=<title>Reservation Made!</title>" (count=1)  	[MsgId: MMSG-26364]
+Action.c(81): Registered web_reg_find successful for "Text=Name4DSurname4D's Flight Invoice" (count=1)  	[MsgId: MMSG-26364]
+Action.c(81): Registered web_reg_find successful for "Text=Business Class tickets from Zurich to Frankfurt." (count=1)  	[MsgId: MMSG-26364]
+Action.c(81): Registered web_reg_find successful for "Text= Total Charged to Credit Card # 1234555566667777" (count=1)  	[MsgId: MMSG-26364]
+Action.c(81): web_submit_form("reservations.pl_3") was successful, 3308 body bytes, 691 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(99): Notify: Transaction "buy_ticket" ended with a "Pass" status (Duration: 0,0848 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(192): Notify: Transaction "logout" started.	[MsgId: MMSG-16999]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): web_reg_find started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(194): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") started  	[MsgId: MMSG-26355]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Image-linking to "http://localhost:1080/cgi-bin/welcome.pl?signOff=1", Target Frame="body"  	[MsgId: MMSG-27993]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432701ms: 327-byte response headers for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1258)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:34 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MSO=SID&1619283154; path=/\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Set-Cookie: MTUserInfo=; path=/; expires=Fri, 23-Apr-2021 16:52:34 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432702ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1258)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     2ae\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432702ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1258)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432702ms: 686-byte chunked response body for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1258)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!-- \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      A Session ID has been created and loaded into a cookie called MSO.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      Also, the server options have been loaded into the cookie called\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      MSO as well.  The server options can be set via the Admin page.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):      --->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <!-- Frame Set -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        <frameset cols="160,*" border="1" frameborder="1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Navigation Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="nav.pl?in=home" name="navbar" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <!-- Home Frame -->\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):           <frame src="/WebTours/home.html" name="info" marginheight="2" marginwidth="2" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):                 noresize="noresize" scrolling="auto"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):        </frameset>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/cgi-bin/nav.pl?in=home" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Detected non-resource "http://localhost:1080/WebTours/home.html" in "http://localhost:1080/cgi-bin/welcome.pl?signOff=1"  	[MsgId: MMSG-26574]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432703ms: 1361-byte response body retrieved from cache for "http://localhost:1080/WebTours/home.html" (RelFrameId=1.2, Internal ID=1260)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t<title>Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HEAD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tblockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH1 {font-family: tahoma; font-size : 22pt; color: #003366}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tsmall {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tH3{font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA {FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: black; FONT-FAMILY: Tahoma; TEXT-DECORATIO
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     N: none}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tA:hover{ FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: #993333; FONT-FAMILY: Tahoma;TEXT-DE
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     CORATION: underline}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tTD {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#e0e7f1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <BR/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TR><TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <H1><b>Web Tours</b></H1>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Welcome to the Web Tours site.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To make reservations,please enter your account information to the left.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     If you haven't registered yet, <A href="/cgi-bin/login.pl?username=&amp;password=&amp;getI
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     nfo=true" ><B>sign up now</B></A> to get access to all our resources.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     To configure the server options, use <A href="/cgi-bin/admin.pl" target="body" ><b>adminis
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     tration</b></A> link.\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><br/><br/><br/><br/><br/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <br/><small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     This product uses parts of the SMT Kernel, Copyright (c) 1991-99 <A href="http://www.imati
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     x.com" target="new"><B><small>iMatix Corporation</small></B></A> \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </small>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </blockquote></TD>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <TD></TD></TR>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </HTML>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432705ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/welcome.pl?signOff=1" (RelFrameId=1, Internal ID=1258)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432766ms: 255-byte response headers for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1259)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     HTTP/1.1 200 OK\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Date: Sat, 24 Apr 2021 16:52:34 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Expires: Fri, 23 Apr 2021 16:52:35 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Keep-Alive: timeout=5, max=99\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432767ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1259)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     5d1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432767ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1259)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432767ms: 1489-byte chunked response body for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1259)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <title>Web Tours Navigation Bar</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     blockquote {font-family: tahoma; font-size : 10pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H1 {font-family: tahoma; font-size : 22pt; color: #993333}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     H3 {font-family: tahoma; font-size : 10pt; color: black}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     small {font-family: tahoma; font-size : 8pt}\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </style>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <form method="post" action="/cgi-bin/login.pl" target="body">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <input type="hidden" name="userSession" value="131169.149777238zHtHAVDpVtVzzzzHtAticpAHiif
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     "/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <table border="0"><tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Username</small></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="text" name="username" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><small>&nbsp;Password</small></td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="password" name="password" value="" size="14" maxlength="14"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <td><input type="image" name="login" value="Login" alt="Login" border="1" \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     src="/WebTours/images/mer_login.gif"/></td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     <tr><td>&nbsp;</td><td>&nbsp;</td></tr>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </table><input type="hidden" name="JSFormSubmit" value="off"/>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </form>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     </html>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Resource "http://localhost:1080/WebTours/images/mer_login.gif" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): t=6432769ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/nav.pl?in=home" (RelFrameId=1.1, Internal ID=1259)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(197): web_image("SignOff Button") was successful, 2175 body bytes, 582 header bytes, 24 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(202): Notify: Transaction "logout" ended with a "Pass" status (Duration: 0,2097 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(107): Notify: Transaction "UC_04_BuyTickets" ended with a "Pass" status (Duration: 39,1698 Think Time: 38,0300 Wasted Time: 0,0028).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 15 (thread 9636), ended OK."	[MsgId: MMSG-10695]

@@ -1,27 +1,27 @@
 [
     {
         "transactionName": "open_main_page",
-        "rawStartTime": 1617723428547,
-        "rawEndTime": 1617723428873
+        "rawStartTime": 1619209538979,
+        "rawEndTime": 1619209539320
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1617723428875,
-        "rawEndTime": 1617723436163
+        "rawStartTime": 1619209546348,
+        "rawEndTime": 1619209546633
     },
     {
         "transactionName": "open_flights_page",
-        "rawStartTime": 1617723436164,
-        "rawEndTime": 1617723436399
+        "rawStartTime": 1619209546646,
+        "rawEndTime": 1619209546889
     },
     {
         "transactionName": "search_flights",
-        "rawStartTime": 1617723436400,
-        "rawEndTime": 1617723446528
+        "rawStartTime": 1619209556915,
+        "rawEndTime": 1619209557089
     },
     {
         "transactionName": "UC_02_LoginAndLogout",
-        "rawStartTime": 1617723428545,
-        "rawEndTime": 1617723446530
+        "rawStartTime": 1619209538965,
+        "rawEndTime": 1619209557104
     }
 ]

@@ -1,32 +1,32 @@
 [
     {
         "transactionName": "open_main_page",
-        "rawStartTime": 1617723395189,
-        "rawEndTime": 1617723396332
+        "rawStartTime": 1619209473894,
+        "rawEndTime": 1619209474351
     },
     {
         "transactionName": "open_sign_up_page",
-        "rawStartTime": 1617723396335,
-        "rawEndTime": 1617723396533
+        "rawStartTime": 1619209474365,
+        "rawEndTime": 1619209474604
     },
     {
         "transactionName": "sign_up",
-        "rawStartTime": 1617723396535,
-        "rawEndTime": 1617723407726
+        "rawStartTime": 1619209485643,
+        "rawEndTime": 1619209485984
     },
     {
         "transactionName": "open_main_page",
-        "rawStartTime": 1617723407728,
-        "rawEndTime": 1617723407906
+        "rawStartTime": 1619209486001,
+        "rawEndTime": 1619209486192
     },
     {
         "transactionName": "login",
-        "rawStartTime": 1617723407908,
-        "rawEndTime": 1617723415175
+        "rawStartTime": 1619209493230,
+        "rawEndTime": 1619209493488
     },
     {
         "transactionName": "UC_01_SignUp",
-        "rawStartTime": 1617723395187,
-        "rawEndTime": 1617723415176
+        "rawStartTime": 1619209473879,
+        "rawEndTime": 1619209493498
     }
 ]

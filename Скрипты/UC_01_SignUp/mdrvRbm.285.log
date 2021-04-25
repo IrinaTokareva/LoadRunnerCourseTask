@@ -1,0 +1,47 @@
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Date: Fri, 23 Apr 2021 20:58:48 GMT\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Server: Apache/2.2.21 (Win32)\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Expires: 5s\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Keep-Alive: timeout=5, max=100\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Connection: Keep-Alive\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Transfer-Encoding: chunked\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     Content-Type: text/html; charset=ISO-8859-1\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40): t=1423397ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=644)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     39e\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40): t=1423397ms: 2-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=644)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40): t=1423397ms: 926-byte chunked response body for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=644)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <!DOCTYPE html\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     \tPUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     \t "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xml:lang="en-US">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <title>Welcome to Web Tours</title>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     </head>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <body bgcolor="#E0E7F1">\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     <p /><style>blockquote {font-family: tahoma; font-size : 10pt}H1 {font-family: tahoma; fon
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     t-size : 22pt; color: #993333}small {font-family: tahoma; font-size : 8pt}H3 {font-family:
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):      tahoma; font-size : 10pt; color: black}TD {font-family: tahoma; font-size : 10pt; color: 
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     black}</style><BR/><BR/><BR/><BR/><BR/><blockquote>Welcome, <b>userBB9CA6E4</b>, to the We
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     b Tours reservation pages.<BR/>Using the menu to the left, you can search for new flights 
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     to book, \n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     or review/edit the flights already booked.  Don't forget to sign off when\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     you're done!\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     </blockquote>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     </body>\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     </html>
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40): t=1423399ms: 5-byte chunked response overhead for "http://localhost:1080/cgi-bin/login.pl?intro=true" (RelFrameId=1.2, Internal ID=644)
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     0\r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40):     \r\n
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40): Registered web_reg_find successful for "Text=Welcome, <b>userBB9CA6E4</b>, to the Web Tours reservation pages." (count=1)  	[MsgId: MMSG-26364]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(40): web_submit_form("login.pl") was successful, 5787 body bytes, 2097 header bytes, 36 chunking overhead bytes  	[MsgId: MMSG-26385]
+C:\\Program Files (x86)\\HPE\\LoadRunner\\include/lr_course_lib.h(47): Notify: Transaction "login" ended with a "Pass" status (Duration: 0,2014 Wasted Time: 0,0000).	[MsgId: MMSG-16871]
+Action.c(64): Notify: Transaction "UC_01_SignUp" ended with a "Pass" status (Duration: 18,8179 Think Time: 18,0256 Wasted Time: 0,0002).	[MsgId: MMSG-16870]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+Vuser 0 (thread 12788), ended OK."	[MsgId: MMSG-10695]

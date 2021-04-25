@@ -10,17 +10,19 @@ Action()
 	lr_start_transaction("UC_05_CancelReservations");
 	
 	open_main_page_transaction();
+	
+	lr_think_time(7);
 
 	login_transaction();
 	
 	open_itinerary_transaction(1);
+	
+	lr_think_time(4);
 
 	lr_start_transaction("cancel_reservations");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(4);
 	
 	web_reg_save_param_regexp(
 		"ParamName=newFlightIds",

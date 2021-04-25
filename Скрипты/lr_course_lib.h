@@ -34,8 +34,6 @@ void login_transaction() {
     web_add_header("Origin", 
         "http://localhost:1080");
 
-    lr_think_time(7);
-
     web_reg_find("Text=Welcome, <b>{username}</b>, to the Web Tours reservation pages.",
         LAST);
 
@@ -116,8 +114,6 @@ void search_flights_transaction(int chooseFlight) {
              SEARCH_FILTERS,
              LAST);
     }
-
-    lr_think_time(10);
 	
     web_reg_find("Text=Flight departing from <B>{departureCity}</B> to <B>{arrivalCity}</B> on <B>{departureDate}</B>",
         LAST);

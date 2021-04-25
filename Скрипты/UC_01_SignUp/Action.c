@@ -21,12 +21,12 @@ Action()
 	
 	lr_end_transaction("open_sign_up_page", LR_AUTO);
 	
+	lr_think_time(11);
+	
 	lr_start_transaction("sign_up");
 
 	web_add_header("Origin", 
 		"http://localhost:1080");
-
-	lr_think_time(11);
 	
 	lr_save_string((char*)lr_short_guid_no_dashes_gen(), "guid");
 	
@@ -56,6 +56,8 @@ Action()
 	lr_end_transaction("sign_up", LR_AUTO);
 	
 	open_main_page_transaction();
+	
+	lr_think_time(7);
 	
 	login_transaction();
 
