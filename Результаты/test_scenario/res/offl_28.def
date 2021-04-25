@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=% Disk Time (PhysicalDisk _Total)
+GraphTitle=Disk Transfers/sec (PhysicalDisk _Total)
 DataPointLabel_1=offline_datapoint_28
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=% Disk Time (PhysicalDisk _Total)
+YAxisTitle=Disk Transfers/sec (PhysicalDisk _Total)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Disk Time is the percentage of elapsed time that the selected disk drive is busy servicing read or write requests.
+DataPointDescr_1=Disk Transfers/sec is the rate of read and write operations on the disk.

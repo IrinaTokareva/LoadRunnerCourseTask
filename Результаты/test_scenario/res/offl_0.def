@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=Context Switches/sec (System)
+GraphTitle=Pages/sec (Memory)
 DataPointLabel_1=offline_datapoint_0
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=Context Switches/sec (System)
+YAxisTitle=Pages/sec (Memory)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Context Switches/sec is the combined rate at which all processors on the computer are switched from one thread to another.  Context switches occur when a running thread voluntarily relinquishes the processor, is preempted by a higher priority ready thread, or switches between user-mode and privileged (kernel) mode to use an Executive or subsystem service.  It is the sum of Thread\Context Switches/sec for all threads running on all processors in the computer and is measured in numbers of switches.  There are context switch counters on the System and Thread objects. This counter displays the difference between the values observed in the last two samples, divided by the duration of the sample interval.
+DataPointDescr_1=Pages/sec is the number of pages read from the disk or written to the disk to resolve memory references to pages that were not in memory at the time of the reference.  This is the sum of Pages Input/sec and Pages Output/sec.  This counter includes paging traffic on behalf of the system Cache to access file data for applications.  This value also includes the pages to/from non-cached mapped memory files.  This is the primary counter to observe if you are concerned about excessive memory pressure (that is, thrashing), and the excessive paging that may result.

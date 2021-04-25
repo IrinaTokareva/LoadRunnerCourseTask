@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=Disk Transfers/sec (PhysicalDisk _Total)
+GraphTitle=% Interrupt Time (Processor _Total)
 DataPointLabel_1=offline_datapoint_17
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=Disk Transfers/sec (PhysicalDisk _Total)
+YAxisTitle=% Interrupt Time (Processor _Total)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Disk Transfers/sec is the rate of read and write operations on the disk.
+DataPointDescr_1=% Interrupt Time is the time the processor spends receiving and servicing hardware interrupts during sample intervals. This value is an indirect indicator of the activity of devices that generate interrupts, such as the system clock, the mouse, disk drivers, data communication lines, network interface cards and other peripheral devices. These devices normally interrupt the processor when they have completed a task or require attention. Normal thread execution is suspended during interrupts. Most system clocks interrupt the processor every 10 milliseconds, creating a background of interrupt activity. suspends normal thread execution during interrupts. This counter displays the average busy time as a percentage of the sample time.

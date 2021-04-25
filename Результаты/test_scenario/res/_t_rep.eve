@@ -1,53 +1,53 @@
-28 11 1617720353 2 196272744 -1274120006 1699600
-28 4 UC_04_BuyTickets 1 1617720355 0 UC_04_BuyTickets localhost 0 1
+28 11 1619210054 2 1034838256 1910934161 1699600
+28 4 UC_04_BuyTickets 1 1619210055 0 UC_04_BuyTickets localhost 0 1
 28 10 localhost 28 0 0
-28 0 UC_04_BuyTickets 1 1617720355 0 localhost 0
+28 0 UC_04_BuyTickets 1 1619210055 0 localhost 0
 28 8 UC_04_BuyTickets 1  0 0
-28 2 UC_04_BuyTickets 1 1617720355 0 p 0 0
-28 4 UC_03_SearchFlights 1 1617720364 0 UC_03_SearchFlights localhost 0 1
-28 0 UC_03_SearchFlights 1 1617720364 0 localhost 0
+28 2 UC_04_BuyTickets 1 1619210055 0 p 0 0
+28 4 UC_03_SearchFlights 1 1619210064 0 UC_03_SearchFlights localhost 0 1
+28 0 UC_03_SearchFlights 1 1619210065 0 localhost 0
 28 8 UC_03_SearchFlights 1  0 0
-28 2 UC_03_SearchFlights 1 1617720364 0 p 0 0
-28 4 UC_04_BuyTickets 2 1617720373 0 UC_04_BuyTickets localhost 0 1
-28 0 UC_04_BuyTickets 2 1617720373 0 localhost 0
+28 2 UC_03_SearchFlights 1 1619210065 0 p 0 0
+28 4 UC_04_BuyTickets 2 1619210074 0 UC_04_BuyTickets localhost 0 1
+28 0 UC_04_BuyTickets 2 1619210074 0 localhost 0
 28 8 UC_04_BuyTickets 2  0 0
-28 2 UC_04_BuyTickets 2 1617720373 0 p 0 0
-28 4 UC_02_LoginAndLogout 1 1617720384 0 UC_02_LoginAndLogout localhost 0 1
-28 0 UC_02_LoginAndLogout 1 1617720384 0 localhost 0
+28 2 UC_04_BuyTickets 2 1619210074 0 p 0 0
+28 4 UC_02_LoginAndLogout 1 1619210084 0 UC_02_LoginAndLogout localhost 0 1
+28 0 UC_02_LoginAndLogout 1 1619210084 0 localhost 0
 28 8 UC_02_LoginAndLogout 1  0 0
-28 2 UC_02_LoginAndLogout 1 1617720384 0 p 0 0
-28 4 UC_04_BuyTickets 3 1617720393 0 UC_04_BuyTickets localhost 0 1
-28 0 UC_04_BuyTickets 3 1617720393 0 localhost 0
+28 2 UC_02_LoginAndLogout 1 1619210084 0 p 0 0
+28 4 UC_04_BuyTickets 3 1619210094 0 UC_04_BuyTickets localhost 0 1
+28 0 UC_04_BuyTickets 3 1619210094 0 localhost 0
 28 8 UC_04_BuyTickets 3  0 0
-28 2 UC_04_BuyTickets 3 1617720394 0 p 0 0
-28 4 UC_01_SignUp 1 1617720404 0 UC_01_SignUp localhost 0 1
-28 0 UC_01_SignUp 1 1617720404 0 localhost 0
+28 2 UC_04_BuyTickets 3 1619210094 0 p 0 0
+28 4 UC_01_SignUp 1 1619210105 0 UC_01_SignUp localhost 0 1
+28 0 UC_01_SignUp 1 1619210105 0 localhost 0
 28 8 UC_01_SignUp 1  0 0
-28 2 UC_01_SignUp 1 1617720404 0 p 0 0
-28 4 UC_05_CancelReservations 1 1617720414 0 UC_05_CancelReservations localhost 0 1
-28 0 UC_05_CancelReservations 1 1617720414 0 localhost 0
+28 2 UC_01_SignUp 1 1619210105 0 p 0 0
+28 4 UC_05_CancelReservations 1 1619210115 0 UC_05_CancelReservations localhost 0 1
+28 0 UC_05_CancelReservations 1 1619210115 0 localhost 0
 28 8 UC_05_CancelReservations 1  0 0
-28 2 UC_05_CancelReservations 1 1617720414 0 p 0 0
-28 4 UC_04_BuyTickets 4 1617720424 0 UC_04_BuyTickets localhost 0 1
-28 0 UC_04_BuyTickets 4 1617720424 0 localhost 0
+28 2 UC_05_CancelReservations 1 1619210115 0 p 0 0
+28 4 UC_04_BuyTickets 4 1619210124 0 UC_04_BuyTickets localhost 0 1
+28 0 UC_04_BuyTickets 4 1619210124 0 localhost 0
 28 8 UC_04_BuyTickets 4  0 0
-28 2 UC_04_BuyTickets 4 1617720424 0 p 0 0
-28 4 UC_03_SearchFlights 2 1617720434 0 UC_03_SearchFlights localhost 0 1
-28 0 UC_03_SearchFlights 2 1617720434 0 localhost 0
+28 2 UC_04_BuyTickets 4 1619210124 0 p 0 0
+28 4 UC_03_SearchFlights 2 1619210134 0 UC_03_SearchFlights localhost 0 1
+28 0 UC_03_SearchFlights 2 1619210134 0 localhost 0
 28 8 UC_03_SearchFlights 2  0 0
-28 2 UC_03_SearchFlights 2 1617720434 0 p 0 0
-28 4 UC_04_BuyTickets 5 1617720444 0 UC_04_BuyTickets localhost 0 1
-28 0 UC_04_BuyTickets 5 1617720444 0 localhost 0
+28 2 UC_03_SearchFlights 2 1619210134 0 p 0 0
+28 4 UC_04_BuyTickets 5 1619210144 0 UC_04_BuyTickets localhost 0 1
+28 0 UC_04_BuyTickets 5 1619210144 0 localhost 0
 28 8 UC_04_BuyTickets 5  0 0
-28 2 UC_04_BuyTickets 5 1617720444 0 p 0 0
-28 1 UC_03_SearchFlights 1 1617721790 0 2
-28 1 UC_01_SignUp 1 1617721827 0 2
-28 1 UC_04_BuyTickets 1 1617721836 0 2
-28 1 UC_05_CancelReservations 1 1617721848 0 2
-28 1 UC_04_BuyTickets 2 1617721855 0 2
-28 1 UC_03_SearchFlights 2 1617721860 0 2
-28 1 UC_04_BuyTickets 3 1617721875 0 2
-28 1 UC_02_LoginAndLogout 1 1617721897 0 2
-28 1 UC_04_BuyTickets 4 1617721905 0 2
-28 1 UC_04_BuyTickets 5 1617721925 0 2
-28 12 1617721925 1 1617721925 0 1617721925
+28 2 UC_04_BuyTickets 5 1619210144 0 p 0 0
+28 1 UC_03_SearchFlights 1 1619211491 0 2
+28 1 UC_01_SignUp 1 1619211528 0 2
+28 1 UC_04_BuyTickets 1 1619211536 0 2
+28 1 UC_05_CancelReservations 1 1619211549 0 2
+28 1 UC_04_BuyTickets 2 1619211555 0 2
+28 1 UC_03_SearchFlights 2 1619211561 0 2
+28 1 UC_04_BuyTickets 3 1619211575 0 2
+28 1 UC_02_LoginAndLogout 1 1619211597 0 2
+28 1 UC_04_BuyTickets 4 1619211606 0 2
+28 1 UC_04_BuyTickets 5 1619211625 0 2
+28 12 1619211626 1 1619211626 0 1619211626

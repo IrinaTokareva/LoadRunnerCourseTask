@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=File Data Operations/sec (System)
+GraphTitle=Threads (Objects)
 DataPointLabel_1=offline_datapoint_16
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=File Data Operations/sec (System)
+YAxisTitle=Threads (Objects)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=File Data Operations per second is the rate that the computer is issuing Read and Write operations to file system devices.  It does not include File Control Operations.
+DataPointDescr_1=Threads is the number of threads in the computer at the time of data collection.  Notice that this is an instantaneous count, not an average over the time interval.  A thread is the basic executable entity that can execute instructions in a processor.

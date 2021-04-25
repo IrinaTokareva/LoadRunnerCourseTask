@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=Private Bytes (Process _Total)
+GraphTitle=Cache Bytes (Memory)
 DataPointLabel_1=offline_datapoint_20
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=Private Bytes (Process _Total)
+YAxisTitle=Cache Bytes (Memory)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Private Bytes is the current number of bytes this process has allocated that cannot be shared with other processes.
+DataPointDescr_1=Cache Bytes is the sum of the Memory\System Cache Resident Bytes, Memory\System Driver Resident Bytes, Memory\System Code Resident Bytes, and Memory\Pool Paged Resident Bytes counters.  This counter displays the last observed value only; it is not an average.

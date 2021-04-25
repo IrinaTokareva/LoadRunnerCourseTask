@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=% Idle Time (PhysicalDisk _Total)
+GraphTitle=Split IO/Sec (PhysicalDisk _Total)
 DataPointLabel_1=offline_datapoint_10
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=% Idle Time (PhysicalDisk _Total)
+YAxisTitle=Split IO/Sec (PhysicalDisk _Total)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=% Idle Time reports the percentage of time during the sample interval that the disk was idle.
+DataPointDescr_1=Split IO/Sec reports the rate at which I/Os to the disk were split into multiple I/Os. A split I/O may result from requesting data of a size that is too large to fit into a single I/O or that the disk is fragmented.

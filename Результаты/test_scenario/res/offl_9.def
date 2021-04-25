@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=Cache Bytes (Memory)
+GraphTitle=% Disk Time (PhysicalDisk _Total)
 DataPointLabel_1=offline_datapoint_9
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=Cache Bytes (Memory)
+YAxisTitle=% Disk Time (PhysicalDisk _Total)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Cache Bytes is the sum of the Memory\System Cache Resident Bytes, Memory\System Driver Resident Bytes, Memory\System Code Resident Bytes, and Memory\Pool Paged Resident Bytes counters.  This counter displays the last observed value only; it is not an average.
+DataPointDescr_1=Disk Time is the percentage of elapsed time that the selected disk drive is busy servicing read or write requests.

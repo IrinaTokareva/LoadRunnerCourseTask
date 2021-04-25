@@ -1,0 +1,66 @@
+﻿[Workspace]
+SessionStartTime=0
+SessionEndTime=5389
+VerNo=13
+IsSummaryData=0
+TimeFormat=0
+SesLang=RUS
+ABuild=0
+DataBaseName=resl105649803DB
+DBType=1
+CurrServer=ITOKAREVA
+CurrUser=sa
+CurrPswd===
+StorageLoc=\\ITOKAREVA\Data\
+PhStorageLoc=C:\MSSQL7\Data\
+LocStorageLoc=
+LocPhStorageLoc=
+WinIntSec=0
+UseNetworkMode=0
+UseParallel=1
+UseManagedIndexes=1
+UseSpecMSSQLParams=1
+NumResults=1
+
+[Data Config]
+CollectionMode=3
+IngnoreFlds=Vuser ID
+IngnoreUIFlds=VuserID
+AggSecGran=1
+TransAgg=1
+DataPointAgg=1
+WebAgg=1
+MonAgg=0
+ErrAgg=0
+FilterEdge=0
+FSartTime=0
+FEndTime=84600
+
+[Result0]
+LRRID=
+ResultPath=C:\courses\LoadRunner\LoadRunnerCourseTask\Результаты\maximum_confirmation\res\res.lrr
+ResultTDPath=
+NumFilters=0
+ScenarioTimeZone=-10800
+DaylightSavingSecsAddition=0
+ScenarioStartTime=1619224120
+ScenarioEndTime=1619229509
+ResInSD=0
+WebGran=0
+FilterEdge=0
+FSartTime=0
+FEndTime=0
+TDTestID=-1
+TDRunID=-1
+IsProTuneResult=0
+GraphScale=0
+Scenario Type=Manual
+Schedule Name=Schedule 1
+Mode=Scenario Scheduling
+Load Behavior=Initialize each Vuser just before it runs
+Scenario Duration=Start 37 Vusers: 1 every 00:00:30 (HH:MM:SS); Run for 01:02:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:15 (HH:MM:SS)
+NumGraphs=15
+
+[DimensionFunctions]
+DimeFuncCount=0
+

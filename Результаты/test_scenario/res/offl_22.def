@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=Avg. Disk Bytes/Transfer (PhysicalDisk _Total)
+GraphTitle=Free Megabytes (LogicalDisk _Total)
 DataPointLabel_1=offline_datapoint_22
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=Avg. Disk Bytes/Transfer (PhysicalDisk _Total)
+YAxisTitle=Free Megabytes (LogicalDisk _Total)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Avg. Disk Bytes/Transfer is the average number of bytes transferred to or from the disk during write or read operations.
+DataPointDescr_1=Free Megabytes displays the unallocated space, in megabytes, on the disk drive in megabytes. One megabyte is equal to 1,048,576 bytes.

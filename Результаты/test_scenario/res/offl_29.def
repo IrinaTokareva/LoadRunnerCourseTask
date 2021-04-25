@@ -1,10 +1,10 @@
 [Graph definition]
 count=1
-GraphTitle=Split IO/Sec (PhysicalDisk _Total)
+GraphTitle=Processor Queue Length (System)
 DataPointLabel_1=offline_datapoint_29
 LineTitle_1=localhost
 LineGroup_1=0
-YAxisTitle=Split IO/Sec (PhysicalDisk _Total)
+YAxisTitle=Processor Queue Length (System)
 GraphGroupMenuTitle=Windows Resources
 XAxisTitle=Elapsed Scenario Time (seconds)
 XAxisIsElapsedTime=TRUE
@@ -15,4 +15,4 @@ MissingData=PREVIOUS
 GranularityMode=NOTINCLUDEZERO
 NoDataBehavior=RemoveGraph
 GraphType=es_rm_svr_res_nt
-DataPointDescr_1=Split IO/Sec reports the rate at which I/Os to the disk were split into multiple I/Os. A split I/O may result from requesting data of a size that is too large to fit into a single I/O or that the disk is fragmented.
+DataPointDescr_1=Processor Queue Length is the instantaneous length of the processor queue in units of threads.  This counter is always 0 unless you are also monitoring a thread counter.  All processors use a single queue in which threads wait for processor cycles.  This length does not include the threads that are currently executing.  A sustained processor queue length greater than two generally indicates processor congestion.  This is an instantaneous count, not an average over the time interval.

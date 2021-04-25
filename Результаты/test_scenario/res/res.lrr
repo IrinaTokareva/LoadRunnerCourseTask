@@ -7,9 +7,9 @@ Result_file=c:\courses\loadrunner\loadrunnercoursetask\результаты\test_scenario\
 Description=
 ResultName=res
 Time_Zone=-10800
-Start_time=1617720353
+Start_time=1619210054
 Daylight_Bias=0
-Stop_time=1617721925
+Stop_time=1619211626
 [Configuration]
 Public_local=1
 Is_mix=1

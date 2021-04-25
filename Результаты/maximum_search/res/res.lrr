@@ -1,0 +1,48 @@
+[Scenario]
+Product=HPE LoadRunner Controller
+Version=12.55.0.0
+Path=C:\courses\LoadRunner\LoadRunnerCourseTask\Сценарии\MaximumSearch.lrs
+Subject=TestScenario
+Result_file=c:\courses\loadrunner\loadrunnercoursetask\результаты\maximum_search\res\res.lrr
+Description=
+ResultName=res
+Time_Zone=-10800
+Start_time=1619213657
+Daylight_Bias=0
+Stop_time=1619221284
+
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+
+[Data Collection]
+FullData=1
+SummaryEnded=1
+
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Schedule 1
+Mode=Scenario Scheduling
+Scenario Duration=Start 10 Vusers: 1 every 00:00:10 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:10 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:10 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:10 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:10 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:10 (HH:MM:SS)
+Load Behavior=Initialize each Vuser just before it runs
+
+[Scripts]
+uc_04_buytickets_1=C:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_04_BuyTickets\UC_04_BuyTickets.usr
+uc_03_searchflights_1=C:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_03_SearchFlights\UC_03_SearchFlights.usr
+uc_02_loginandlogout_1=C:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_02_LoginAndLogout\UC_02_LoginAndLogout.usr
+uc_05_cancelreservations_1=C:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_05_CancelReservations\UC_05_CancelReservations.usr
+uc_01_signup_1=C:\courses\LoadRunner\LoadRunnerCourseTask\Скрипты\UC_01_SignUp\UC_01_SignUp.usr
+
+[Scripts_types]
+uc_04_buytickets_1=Multi+QTWeb
+uc_03_searchflights_1=Multi+QTWeb
+uc_02_loginandlogout_1=Multi+QTWeb
+uc_05_cancelreservations_1=Multi+QTWeb
+uc_01_signup_1=Multi+QTWeb
+

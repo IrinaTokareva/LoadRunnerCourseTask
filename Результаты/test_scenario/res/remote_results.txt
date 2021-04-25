@@ -1,2 +1,2 @@
 [Hosts]
-localhost=c:\courses\loadrunner\loadrunnercoursetask\результаты\test_scenario\res\localhost_1.eve
+localhost=c:\courses\loadrunner\loadrunnercoursetask\результаты\test_scenario\res\localhost_242.eve
