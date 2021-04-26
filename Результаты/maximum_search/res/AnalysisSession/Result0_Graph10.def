@@ -18,6 +18,12 @@ ActivePage=0
 Count=1
 
 [UIInfo0]
+Title0=% Disk Time (PhysicalDisk _Total):localhost
+Color0=8559404
+Active0=-1
+Scale0=1
+ScaleState0=User
+UITitle0=
 
 [MoreUiInfos]
 ShowPieMarks=1
@@ -40,7 +46,7 @@ DefaultDisplayType=Line
 UserGranularity=1
 RoundBarValues=0
 GraphDataCol1=
-TableName=T102449192T
+TableName=T123745191T
 BasicTableName=
 AbsoluteTime=0
 DisableFilter=0
